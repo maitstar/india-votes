@@ -1,0 +1,14 @@
+{
+  "name": "india-votes",
+  "version": "0.1.0",
+  "private": true,
+  "description": "An exploratory atlas of Indian state and national elections",
+  "license": "GPL-3.0-only",
+  "scripts": {
+    "build": "python3 build.py",
+    "test": "node test-v3.cjs && node test-v3-routes.cjs"
+  },
+  "devDependencies": {
+    "jsdom": "29.1.1"
+  }
+}

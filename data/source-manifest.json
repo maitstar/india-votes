@@ -1,0 +1,42 @@
+{
+  "snapshotDate": "2026-11-06",
+  "upstreamCommits": {
+    "indiaVotes": {
+      "commit": "7d8cf637f83d223b178d11659103a1f52647367a"
+    },
+    "allElections": {
+      "commit": "1fe9a2e00d3ca451e95be46e753d71af0ede78fe"
+    },
+    "boundaries": {
+      "commit": "efceae39d3922f04fc5ea91106b7b316bf8ddf8f"
+    },
+    "kerala": {
+      "commit": "016139f884f0ee887576cca3e095a7a72d36a829"
+    },
+    "elections2023": {
+      "commit": "e601db3ceb832afac22d9edb0367847472872206"
+    }
+  },
+  "coalitionReferences": [
+    "https://www.indiatoday.in/elections/political-party-alliances",
+    "https://www.tribuneindia.com/news/india/opposition-seals-seat-sharing-arrangement-in-assam/",
+    "https://election.dinamalar.com/election-results-2026",
+    "https://github.com/nvlsr/kerala-2026",
+    "https://en.wikipedia.org/wiki/2024_Indian_general_election",
+    "https://en.wikipedia.org/wiki/2019_Indian_general_election"
+  ],
+  "atlasSHA256": "d8385c6e30c7453bf7d47db46e142eaf7ce188b2cde763cb1affc9ece50b5f0a",
+  "excluded": [
+    "Unfinished candidate background/scoring records",
+    "Unfinished manifesto assessments",
+    "Credentials, deployment account metadata, private working notes"
+  ],
+  "note": "A derived archive, not a complete raw-source ingestion pipeline. See docs/SOURCES.md.",
+  "upstreamRepositories": {
+    "indiaVotes": "https://github.com/thecont1/india-votes-data",
+    "allElections": "https://github.com/skthewimp/elections",
+    "boundaries": "https://github.com/skthewimp/india-constituency-maps",
+    "kerala": "https://github.com/nvlsr/kerala-2026",
+    "elections2023": "https://github.com/azadecon/assembly_elections_2023"
+  }
+}

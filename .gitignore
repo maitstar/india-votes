@@ -1,0 +1,12 @@
+dist/
+node_modules/
+.env
+.env.*
+!.env.example
+.vercel/
+.DS_Store
+__pycache__/
+*.pyc
+*.zip
+*.log
+deployment.json

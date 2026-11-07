@@ -1,0 +1,918 @@
+[
+  {
+    "chamber": "State Assembly",
+    "code": "AP",
+    "name": "Andhra Pradesh",
+    "year": 2024,
+    "expectedSeats": 175,
+    "recordedSeats": 175,
+    "directGeometrySeats": 175,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "AR",
+    "name": "Arunachal Pradesh",
+    "year": 2024,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "directGeometrySeats": 60,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "AS",
+    "name": "Assam",
+    "year": 2026,
+    "expectedSeats": 126,
+    "recordedSeats": 126,
+    "directGeometrySeats": 0,
+    "mapRef": null,
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "AS",
+    "name": "Assam",
+    "year": 2021,
+    "expectedSeats": 126,
+    "recordedSeats": 126,
+    "directGeometrySeats": 126,
+    "mapRef": null,
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "BR",
+    "name": "Bihar",
+    "year": 2025,
+    "expectedSeats": 243,
+    "recordedSeats": 243,
+    "directGeometrySeats": 243,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "BR",
+    "name": "Bihar",
+    "year": 2020,
+    "expectedSeats": 243,
+    "recordedSeats": 243,
+    "directGeometrySeats": 0,
+    "mapRef": "BR",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "CT",
+    "name": "Chhattisgarh",
+    "year": 2023,
+    "expectedSeats": 90,
+    "recordedSeats": 90,
+    "directGeometrySeats": 90,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/azadecon/assembly_elections_2023"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "CT",
+    "name": "Chhattisgarh",
+    "year": 2018,
+    "expectedSeats": 90,
+    "recordedSeats": 90,
+    "directGeometrySeats": 0,
+    "mapRef": "CT",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "DL",
+    "name": "Delhi",
+    "year": 2025,
+    "expectedSeats": 70,
+    "recordedSeats": 70,
+    "directGeometrySeats": 70,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "DL",
+    "name": "Delhi",
+    "year": 2020,
+    "expectedSeats": 70,
+    "recordedSeats": 70,
+    "directGeometrySeats": 0,
+    "mapRef": "DL",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "GA",
+    "name": "Goa",
+    "year": 2022,
+    "expectedSeats": 40,
+    "recordedSeats": 40,
+    "directGeometrySeats": 40,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "GA",
+    "name": "Goa",
+    "year": 2017,
+    "expectedSeats": 40,
+    "recordedSeats": 40,
+    "directGeometrySeats": 0,
+    "mapRef": "GA",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "GJ",
+    "name": "Gujarat",
+    "year": 2022,
+    "expectedSeats": 182,
+    "recordedSeats": 182,
+    "directGeometrySeats": 181,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "GJ",
+    "name": "Gujarat",
+    "year": 2017,
+    "expectedSeats": 182,
+    "recordedSeats": 182,
+    "directGeometrySeats": 0,
+    "mapRef": "GJ",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "HR",
+    "name": "Haryana",
+    "year": 2024,
+    "expectedSeats": 90,
+    "recordedSeats": 90,
+    "directGeometrySeats": 90,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "HR",
+    "name": "Haryana",
+    "year": 2019,
+    "expectedSeats": 90,
+    "recordedSeats": 90,
+    "directGeometrySeats": 0,
+    "mapRef": "HR",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "HP",
+    "name": "Himachal Pradesh",
+    "year": 2022,
+    "expectedSeats": 68,
+    "recordedSeats": 68,
+    "directGeometrySeats": 68,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "JK",
+    "name": "Jammu & Kashmir",
+    "year": 2024,
+    "expectedSeats": 90,
+    "recordedSeats": 90,
+    "directGeometrySeats": 90,
+    "mapRef": null,
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "JK",
+    "name": "Jammu & Kashmir",
+    "year": 2014,
+    "expectedSeats": 87,
+    "recordedSeats": 87,
+    "directGeometrySeats": 87,
+    "mapRef": null,
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "JH",
+    "name": "Jharkhand",
+    "year": 2024,
+    "expectedSeats": 81,
+    "recordedSeats": 81,
+    "directGeometrySeats": 81,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "JH",
+    "name": "Jharkhand",
+    "year": 2019,
+    "expectedSeats": 81,
+    "recordedSeats": 81,
+    "directGeometrySeats": 0,
+    "mapRef": "JH",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "KA",
+    "name": "Karnataka",
+    "year": 2023,
+    "expectedSeats": 224,
+    "recordedSeats": 224,
+    "directGeometrySeats": 224,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "KA",
+    "name": "Karnataka",
+    "year": 2018,
+    "expectedSeats": 224,
+    "recordedSeats": 222,
+    "directGeometrySeats": 0,
+    "mapRef": "KA",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "KL",
+    "name": "Kerala",
+    "year": 2026,
+    "expectedSeats": 140,
+    "recordedSeats": 140,
+    "directGeometrySeats": 140,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data",
+      "https://github.com/nvlsr/kerala-2026"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "KL",
+    "name": "Kerala",
+    "year": 2021,
+    "expectedSeats": 140,
+    "recordedSeats": 140,
+    "directGeometrySeats": 0,
+    "mapRef": "KL",
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "KL",
+    "name": "Kerala",
+    "year": 2011,
+    "expectedSeats": 140,
+    "recordedSeats": 140,
+    "directGeometrySeats": 0,
+    "mapRef": "KL",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "KL",
+    "name": "Kerala",
+    "year": 2016,
+    "expectedSeats": 140,
+    "recordedSeats": 140,
+    "directGeometrySeats": 0,
+    "mapRef": "KL",
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "MP",
+    "name": "Madhya Pradesh",
+    "year": 2023,
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "directGeometrySeats": 230,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/azadecon/assembly_elections_2023"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "MP",
+    "name": "Madhya Pradesh",
+    "year": 2018,
+    "expectedSeats": 230,
+    "recordedSeats": 230,
+    "directGeometrySeats": 0,
+    "mapRef": "MP",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "MH",
+    "name": "Maharashtra",
+    "year": 2024,
+    "expectedSeats": 288,
+    "recordedSeats": 288,
+    "directGeometrySeats": 288,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "MH",
+    "name": "Maharashtra",
+    "year": 2019,
+    "expectedSeats": 288,
+    "recordedSeats": 288,
+    "directGeometrySeats": 0,
+    "mapRef": "MH",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "MN",
+    "name": "Manipur",
+    "year": 2022,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "directGeometrySeats": 60,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "MN",
+    "name": "Manipur",
+    "year": 2017,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "directGeometrySeats": 0,
+    "mapRef": "MN",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "ML",
+    "name": "Meghalaya",
+    "year": 2023,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "directGeometrySeats": 60,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 1,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "ML",
+    "name": "Meghalaya",
+    "year": 2018,
+    "expectedSeats": 60,
+    "recordedSeats": 59,
+    "directGeometrySeats": 0,
+    "mapRef": "ML",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "MZ",
+    "name": "Mizoram",
+    "year": 2023,
+    "expectedSeats": 40,
+    "recordedSeats": 40,
+    "directGeometrySeats": 40,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/azadecon/assembly_elections_2023"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "MZ",
+    "name": "Mizoram",
+    "year": 2018,
+    "expectedSeats": 40,
+    "recordedSeats": 40,
+    "directGeometrySeats": 0,
+    "mapRef": "MZ",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "NL",
+    "name": "Nagaland",
+    "year": 2023,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "directGeometrySeats": 60,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "NL",
+    "name": "Nagaland",
+    "year": 2018,
+    "expectedSeats": 60,
+    "recordedSeats": 58,
+    "directGeometrySeats": 0,
+    "mapRef": "NL",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "OR",
+    "name": "Odisha",
+    "year": 2024,
+    "expectedSeats": 147,
+    "recordedSeats": 147,
+    "directGeometrySeats": 147,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "PY",
+    "name": "Puducherry",
+    "year": 2026,
+    "expectedSeats": 30,
+    "recordedSeats": 30,
+    "directGeometrySeats": 30,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "PY",
+    "name": "Puducherry",
+    "year": 2021,
+    "expectedSeats": 30,
+    "recordedSeats": 30,
+    "directGeometrySeats": 0,
+    "mapRef": "PY",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "PB",
+    "name": "Punjab",
+    "year": 2022,
+    "expectedSeats": 117,
+    "recordedSeats": 117,
+    "directGeometrySeats": 117,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "PB",
+    "name": "Punjab",
+    "year": 2017,
+    "expectedSeats": 117,
+    "recordedSeats": 117,
+    "directGeometrySeats": 0,
+    "mapRef": "PB",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "RJ",
+    "name": "Rajasthan",
+    "year": 2023,
+    "expectedSeats": 200,
+    "recordedSeats": 200,
+    "directGeometrySeats": 200,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/azadecon/assembly_elections_2023"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "RJ",
+    "name": "Rajasthan",
+    "year": 2018,
+    "expectedSeats": 200,
+    "recordedSeats": 199,
+    "directGeometrySeats": 0,
+    "mapRef": "RJ",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "SK",
+    "name": "Sikkim",
+    "year": 2024,
+    "expectedSeats": 32,
+    "recordedSeats": 32,
+    "directGeometrySeats": 32,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "TN",
+    "name": "Tamil Nadu",
+    "year": 2026,
+    "expectedSeats": 234,
+    "recordedSeats": 234,
+    "directGeometrySeats": 234,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "TN",
+    "name": "Tamil Nadu",
+    "year": 2021,
+    "expectedSeats": 234,
+    "recordedSeats": 234,
+    "directGeometrySeats": 0,
+    "mapRef": "TN",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "TG",
+    "name": "Telangana",
+    "year": 2023,
+    "expectedSeats": 119,
+    "recordedSeats": 119,
+    "directGeometrySeats": 119,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/azadecon/assembly_elections_2023"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "TG",
+    "name": "Telangana",
+    "year": 2018,
+    "expectedSeats": 119,
+    "recordedSeats": 119,
+    "directGeometrySeats": 0,
+    "mapRef": "TG",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "TR",
+    "name": "Tripura",
+    "year": 2023,
+    "expectedSeats": 60,
+    "recordedSeats": 60,
+    "directGeometrySeats": 60,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "TR",
+    "name": "Tripura",
+    "year": 2018,
+    "expectedSeats": 60,
+    "recordedSeats": 59,
+    "directGeometrySeats": 0,
+    "mapRef": "TR",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "UP",
+    "name": "Uttar Pradesh",
+    "year": 2022,
+    "expectedSeats": 403,
+    "recordedSeats": 403,
+    "directGeometrySeats": 403,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "UP",
+    "name": "Uttar Pradesh",
+    "year": 2017,
+    "expectedSeats": 403,
+    "recordedSeats": 403,
+    "directGeometrySeats": 0,
+    "mapRef": "UP",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "UK",
+    "name": "Uttarakhand",
+    "year": 2022,
+    "expectedSeats": 70,
+    "recordedSeats": 70,
+    "directGeometrySeats": 70,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "UK",
+    "name": "Uttarakhand",
+    "year": 2017,
+    "expectedSeats": 70,
+    "recordedSeats": 70,
+    "directGeometrySeats": 0,
+    "mapRef": "UK",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "WB",
+    "name": "West Bengal",
+    "year": 2026,
+    "expectedSeats": 294,
+    "recordedSeats": 294,
+    "directGeometrySeats": 294,
+    "mapRef": null,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  },
+  {
+    "chamber": "State Assembly",
+    "code": "WB",
+    "name": "West Bengal",
+    "year": 2021,
+    "expectedSeats": 294,
+    "recordedSeats": 294,
+    "directGeometrySeats": 0,
+    "mapRef": "WB",
+    "previousComparable": false,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/skthewimp/elections"
+    ]
+  },
+  {
+    "chamber": "Lok Sabha",
+    "code": "LS",
+    "name": "India · Lok Sabha",
+    "year": 2019,
+    "expectedSeats": 543,
+    "recordedSeats": 543,
+    "directGeometrySeats": 543,
+    "mapReuseYear": null,
+    "previousComparable": false,
+    "partialCandidateSeats": 1,
+    "sources": [
+      "https://github.com/r21meghashyam/indian-election-2019-dataset"
+    ]
+  },
+  {
+    "chamber": "Lok Sabha",
+    "code": "LS",
+    "name": "India · Lok Sabha",
+    "year": 2024,
+    "expectedSeats": 543,
+    "recordedSeats": 543,
+    "directGeometrySeats": 20,
+    "mapReuseYear": 2019,
+    "previousComparable": true,
+    "partialCandidateSeats": 0,
+    "sources": [
+      "https://github.com/thecont1/india-votes-data"
+    ]
+  }
+]

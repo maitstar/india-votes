@@ -1,0 +1,14 @@
+Boundary data attribution
+
+Community map compilation: Karthik Shashidhar, skthewimp/india-constituency-maps (2026).
+https://github.com/skthewimp/india-constituency-maps
+The standardisation code is MIT; that licence is not a claim to ownership of underlying third-party geometry.
+
+Underlying boundary sources include DataMeet India community, Election Commission of India reference layers and shijithpk/2024_maps_supplement. Per-layer provenance and geometry qualifications:
+https://github.com/skthewimp/india-constituency-maps#sources-and-how-each-layer-was-built
+https://github.com/datameet/maps/tree/master/assembly-constituencies
+https://github.com/shijithpk/2024_maps_supplement
+
+DataMeet assembly-constituency source: Creative Commons Attribution 2.5 India.
+https://creativecommons.org/licenses/by/2.5/in/
+The atlas simplifies and projects coordinates for display, reconciles Andhra/Telangana numbering, and uses the recent J&K layer. It does not assert that these are current official survey boundaries. Assam's redrawn assembly geometry is not supplied.
