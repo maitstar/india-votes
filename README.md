@@ -65,3 +65,9 @@ Automated checks exercise national geometry loading, election navigation, themes
 ## Licence and attribution
 
 The combined application is distributed under [GPL-3.0](LICENSE). Upstream datasets, maps and other material retain their own applicable terms; GPL is not a blanket relicensing of third-party data. See [sources](docs/SOURCES.md) and [retained notices](licenses/). This project is independent of the Election Commission of India and the upstream data maintainers.
+
+## Kerala source import — 10 November 2026
+
+[Download the imported results and mappings](data/imports/kerala/) · [Import methodology and discrepancies](docs/KERALA_IMPORT.md)
+
+A pinned upstream import now provides 4,433 result rows across Kerala’s 2011, 2016, 2021 and 2026 Assembly elections, plus Assembly–Lok Sabha mapping tables. All 140 seats are represented per election. Ten older winner-vote discrepancies against the application atlas are recorded for review; the import does not overwrite displayed results. The pre-2008 mapping is quarantined pending review.

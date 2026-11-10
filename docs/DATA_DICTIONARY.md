@@ -54,3 +54,7 @@ Other source-specific fields remain in the archive. Vote totals and assembly-seg
 `data/coverage.json` contains one row per retained election snapshot, with expected/recorded seats, direct geometry count, geometry reuse references, partial-roster count and available source links. It does not measure every seat-level join or certify accuracy.
 
 `data/source-manifest.json` records retained upstream commits, the public atlas SHA-256 checksum and public-release exclusions. A checksum identifies a version; it does not validate its contents.
+
+## Separate Kerala upstream import
+
+`data/imports/kerala/` contains raw-schema Kerala result CSVs and era-specific seat mappings, plus source/output checksums and a discrepancy report. It is separate from `atlas.json`; see [import methodology](KERALA_IMPORT.md). Blank CSV cells represent missing upstream fields. These imports are not automatically substituted into displayed results.

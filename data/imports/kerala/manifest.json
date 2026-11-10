@@ -1,0 +1,40 @@
+{
+  "retrievedDate": "2026-11-10",
+  "upstreamCommits": {
+    "results": "1fe9a2e00d3ca451e95be46e753d71af0ede78fe",
+    "maps": "efceae39d3922f04fc5ea91106b7b316bf8ddf8f"
+  },
+  "inputs": {
+    "assembly.parquet": {
+      "url": "https://raw.githubusercontent.com/skthewimp/elections/1fe9a2e00d3ca451e95be46e753d71af0ede78fe/assembly/data/assembly_candidate_results_since_2009.parquet",
+      "sha256": "646734f553c5662a185dd14ba6f54a33d99e6608fd89e8e66a434649489d5e9b"
+    },
+    "ac_pc_post2008.csv": {
+      "url": "https://raw.githubusercontent.com/skthewimp/india-constituency-maps/efceae39d3922f04fc5ea91106b7b316bf8ddf8f/mappings/ac_pc_post2008.csv",
+      "sha256": "c2197e521eb1192d6912a5cf10788043ccc324f7b2dd6386e5525287e7da0f3f"
+    },
+    "ac_pc_pre2008.csv": {
+      "url": "https://raw.githubusercontent.com/skthewimp/india-constituency-maps/efceae39d3922f04fc5ea91106b7b316bf8ddf8f/mappings/ac_pc_pre2008.csv",
+      "sha256": "815b142f461a45a0b04ac974ccfc1604f65fb18286e939ca6f1e9f91e6f167b1"
+    }
+  },
+  "outputs": {
+    "assembly-to-parliament-post2008.csv": {
+      "sha256": "e830c02691e1a6941b9cd177386cd5bc2836c4280bcf1ab5baf1792eadd08f50",
+      "bytes": 5367
+    },
+    "assembly-to-parliament-pre2008.csv": {
+      "sha256": "658050bf51b7ae50348e6f251bc98970e6255a10830d6ac270590ae2c49c0489",
+      "bytes": 5707
+    },
+    "candidate-results.csv": {
+      "sha256": "feb3769ab44820b912293a69fbab9ceafc549838a37c7df1521d7afc970bb5ef",
+      "bytes": 858960
+    },
+    "validation.json": {
+      "sha256": "4dc149743b83e0aca1e1df36853bf95077bfdbe697ed63c5b0b4b197a5648c4d",
+      "bytes": 5931
+    }
+  },
+  "reuse": "Retain archive MIT notices and boundary attribution; third-party underlying data retain their terms. See docs/KERALA_IMPORT.md."
+}

@@ -1,0 +1,180 @@
+{
+  "reviewDate": "2026-11-10",
+  "scope": "Kerala general-election result rows and AC-PC reference mappings. No IndiaVotes website scraping.",
+  "applicationAtlasChanged": false,
+  "elections": [
+    {
+      "year": 2011,
+      "seats": 140,
+      "rowsIncludingNOTAWherePresent": 971,
+      "winnerVoteTotalsMatchingAtlas": 137,
+      "winnerVoteTotalsDiffering": 3,
+      "sourceKinds": [
+        "local_historical_eci"
+      ]
+    },
+    {
+      "year": 2016,
+      "seats": 140,
+      "rowsIncludingNOTAWherePresent": 1343,
+      "winnerVoteTotalsMatchingAtlas": 133,
+      "winnerVoteTotalsDiffering": 7,
+      "sourceKinds": [
+        "local_historical_eci"
+      ]
+    },
+    {
+      "year": 2021,
+      "seats": 140,
+      "rowsIncludingNOTAWherePresent": 1096,
+      "winnerVoteTotalsMatchingAtlas": 140,
+      "winnerVoteTotalsDiffering": 0,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ]
+    },
+    {
+      "year": 2026,
+      "seats": 140,
+      "rowsIncludingNOTAWherePresent": 1023,
+      "winnerVoteTotalsMatchingAtlas": 140,
+      "winnerVoteTotalsDiffering": 0,
+      "sourceKinds": [
+        "eci_live_scrape"
+      ]
+    }
+  ],
+  "winnerVoteDiscrepancies": [
+    {
+      "year": 2011,
+      "assemblySeatId": 18,
+      "constituency": "SULTHANBATHERY",
+      "atlasCandidate": "I. C. Balakrishnan",
+      "atlasWinnerVotes": 71540,
+      "upstreamCandidate": "I.C BALAKRISHNAN",
+      "upstreamWinnerVotes": 71509,
+      "differenceUpstreamMinusAtlas": -31,
+      "status": "unresolved; neither source adjudicated against official report"
+    },
+    {
+      "year": 2011,
+      "assemblySeatId": 79,
+      "constituency": "VYPEN",
+      "atlasCandidate": "S. Sharma",
+      "atlasWinnerVotes": 60530,
+      "upstreamCandidate": "S.SARMA",
+      "upstreamWinnerVotes": 60814,
+      "differenceUpstreamMinusAtlas": 284,
+      "status": "unresolved; neither source adjudicated against official report"
+    },
+    {
+      "year": 2011,
+      "assemblySeatId": 127,
+      "constituency": "VARKALA",
+      "atlasCandidate": "Varkala Kahar",
+      "atlasWinnerVotes": 57775,
+      "upstreamCandidate": "VARKALA KAHAR",
+      "upstreamWinnerVotes": 57755,
+      "differenceUpstreamMinusAtlas": -20,
+      "status": "unresolved; neither source adjudicated against official report"
+    },
+    {
+      "year": 2016,
+      "assemblySeatId": 43,
+      "constituency": "TIRURANGADI",
+      "atlasCandidate": "P. K. Abdu Rabb",
+      "atlasWinnerVotes": 63027,
+      "upstreamCandidate": "P.K ABDU RABB",
+      "upstreamWinnerVotes": 62927,
+      "differenceUpstreamMinusAtlas": -100,
+      "status": "unresolved; neither source adjudicated against official report"
+    },
+    {
+      "year": 2016,
+      "assemblySeatId": 70,
+      "constituency": "IRINJALAKKUDA",
+      "atlasCandidate": "K. U. Arunan",
+      "atlasWinnerVotes": 59380,
+      "upstreamCandidate": "PROF. K.U. ARUNAN (E)",
+      "upstreamWinnerVotes": 59730,
+      "differenceUpstreamMinusAtlas": 350,
+      "status": "unresolved; neither source adjudicated against official report"
+    },
+    {
+      "year": 2016,
+      "assemblySeatId": 81,
+      "constituency": "THRIPUNITHURA",
+      "atlasCandidate": "M. Swaraj",
+      "atlasWinnerVotes": 62346,
+      "upstreamCandidate": "ADV. M SWARAJ",
+      "upstreamWinnerVotes": 62697,
+      "differenceUpstreamMinusAtlas": 351,
+      "status": "unresolved; neither source adjudicated against official report"
+    },
+    {
+      "year": 2016,
+      "assemblySeatId": 83,
+      "constituency": "THRIKKAKARA",
+      "atlasCandidate": "P. T. Thomas",
+      "atlasWinnerVotes": 61268,
+      "upstreamCandidate": "ADV.P T THOMAS E",
+      "upstreamWinnerVotes": 61451,
+      "differenceUpstreamMinusAtlas": 183,
+      "status": "unresolved; neither source adjudicated against official report"
+    },
+    {
+      "year": 2016,
+      "assemblySeatId": 90,
+      "constituency": "THODUPUZHA",
+      "atlasCandidate": "P. J. Joseph",
+      "atlasWinnerVotes": 76177,
+      "upstreamCandidate": "P.J. JOSEPH",
+      "upstreamWinnerVotes": 76564,
+      "differenceUpstreamMinusAtlas": 387,
+      "status": "unresolved; neither source adjudicated against official report"
+    },
+    {
+      "year": 2016,
+      "assemblySeatId": 96,
+      "constituency": "ETTUMANOOR",
+      "atlasCandidate": "K. Suresh Kurup",
+      "atlasWinnerVotes": 53085,
+      "upstreamCandidate": "SURESH KURUP",
+      "upstreamWinnerVotes": 53805,
+      "differenceUpstreamMinusAtlas": 720,
+      "status": "unresolved; neither source adjudicated against official report"
+    },
+    {
+      "year": 2016,
+      "assemblySeatId": 137,
+      "constituency": "PARASSALA",
+      "atlasCandidate": "C. K. Hareendran",
+      "atlasWinnerVotes": 70516,
+      "upstreamCandidate": "C.K.HAREENDRAKUMAR (C.K.HAREENDRAN)",
+      "upstreamWinnerVotes": 70156,
+      "differenceUpstreamMinusAtlas": -360,
+      "status": "unresolved; neither source adjudicated against official report"
+    }
+  ],
+  "mappingCoverage": {
+    "pre2008": {
+      "assemblySeats": 140,
+      "distinctParliamentSeats": 18,
+      "era": "pre2008",
+      "status": "quarantined: only 18 distinct parent seats; requires independent review"
+    },
+    "post2008": {
+      "assemblySeats": 140,
+      "distinctParliamentSeats": 20,
+      "era": "post2008",
+      "status": "reference-only; not a boundary crosswalk between eras"
+    }
+  },
+  "limitations": [
+    "Matching winner vote totals is not verification of candidate identity, complete rosters, runner-up totals, party labels or official accuracy.",
+    "2011/2016 atlas-versus-upstream discrepancies require official report checks.",
+    "The pre-2008 mapping is quarantined pending review; do not match eras by constituency number or name alone.",
+    "Election-month metadata is retained verbatim and is not independently verified.",
+    "No pre-2011 results were supplied by this pinned results bundle."
+  ]
+}

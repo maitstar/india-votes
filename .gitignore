@@ -10,3 +10,6 @@ __pycache__/
 *.zip
 *.log
 deployment.json
+
+.cache/
+.venv/
