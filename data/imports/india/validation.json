@@ -1,0 +1,3555 @@
+{
+  "date": "2026-11-10",
+  "applicationAtlasChanged": false,
+  "historicalRows": 161760,
+  "historicalElectionIds": 119,
+  "historicalStateLabels": 31,
+  "recentFiles": 20,
+  "recentRows": 32563,
+  "historicalQualityTotals": {
+    "missingVoteRows": 542,
+    "negativeVoteRows": 0,
+    "fractionalVoteRows": 2703,
+    "missingMonthRows": 12091
+  },
+  "national": {
+    "2024": {
+      "source": "fresh pinned upstream CSV",
+      "rows": 8902,
+      "seats": 543,
+      "comparedSeats": 542,
+      "matchingWinnerVotes": 542,
+      "unmatchedSeats": [],
+      "nonNumericVoteRows": [
+        {
+          "constituency": "Surat",
+          "candidate": "MUKESHKUMAR CHANDRAKAANT DALAL",
+          "value": "Unconteste",
+          "note": "preserved; unopposed is not zero votes"
+        }
+      ],
+      "discrepancies": []
+    },
+    "2019": {
+      "source": "derived export from existing atlas, not an independent import or validation",
+      "rows": 8570,
+      "seats": 543,
+      "atlasSHA256": "d8385c6e30c7453bf7d47db46e142eaf7ce188b2cde763cb1affc9ece50b5f0a"
+    }
+  },
+  "coverage": [
+    {
+      "source": "historical-assembly",
+      "electionId": "andhra_pradesh_2009",
+      "state": "Andhra Pradesh",
+      "stateCode": "AP",
+      "sourceYear": 2009,
+      "rows": 3655,
+      "seats": 294,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "andhra_pradesh_2014",
+      "state": "Andhra Pradesh",
+      "stateCode": "AP",
+      "sourceYear": 2014,
+      "rows": 4204,
+      "seats": 294,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "andhra_pradesh_2019",
+      "state": "Andhra Pradesh",
+      "stateCode": "AP",
+      "sourceYear": 2019,
+      "rows": 2416,
+      "seats": 175,
+      "sourceKinds": [
+        "local_latest_fallback"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "andhra_pradesh_2021",
+      "state": "Andhra Pradesh",
+      "stateCode": "AP",
+      "sourceYear": 2021,
+      "rows": 15,
+      "seats": 1,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 15
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "andhra_pradesh_2024",
+      "state": "Andhra Pradesh",
+      "stateCode": "AP",
+      "sourceYear": 2024,
+      "rows": 2562,
+      "seats": 175,
+      "sourceKinds": [
+        "eci_official_statistical_report"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 175,
+      "comparedSeats": 175,
+      "winnerVoteTotalsMatching": 175
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "arunachal_pradesh_2009",
+      "state": "Arunachal Pradesh",
+      "stateCode": "AR",
+      "sourceYear": 2009,
+      "rows": 157,
+      "seats": 60,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "arunachal_pradesh_2014",
+      "state": "Arunachal Pradesh",
+      "stateCode": "AR",
+      "sourceYear": 2014,
+      "rows": 215,
+      "seats": 60,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "arunachal_pradesh_2019",
+      "state": "Arunachal Pradesh",
+      "stateCode": "AR",
+      "sourceYear": 2019,
+      "rows": 215,
+      "seats": 60,
+      "sourceKinds": [
+        "local_latest_fallback"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "arunachal_pradesh_2024",
+      "state": "Arunachal Pradesh",
+      "stateCode": "AR",
+      "sourceYear": 2024,
+      "rows": 193,
+      "seats": 60,
+      "sourceKinds": [
+        "eci_gap_fix",
+        "eci_official_statistical_report"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 60,
+      "winnerVoteTotalsMatching": 60
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "assam_2011",
+      "state": "Assam",
+      "stateCode": "AS",
+      "sourceYear": 2011,
+      "rows": 981,
+      "seats": 126,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "assam_2016",
+      "state": "Assam",
+      "stateCode": "AS",
+      "sourceYear": 2016,
+      "rows": 1190,
+      "seats": 126,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "assam_2021",
+      "state": "Assam",
+      "stateCode": "AS",
+      "sourceYear": 2021,
+      "rows": 1101,
+      "seats": 126,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 30
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 126,
+      "skippedUnresolvedSeats": 126
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "assam_2026",
+      "state": "Assam",
+      "stateCode": "AS",
+      "sourceYear": 2026,
+      "rows": 848,
+      "seats": 126,
+      "sourceKinds": [
+        "eci_live_scrape"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 848
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 126,
+      "skippedUnresolvedSeats": 126
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "bihar_2010",
+      "state": "Bihar",
+      "stateCode": "BR",
+      "sourceYear": 2010,
+      "rows": 3522,
+      "seats": 243,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "bihar_2015",
+      "state": "Bihar",
+      "stateCode": "BR",
+      "sourceYear": 2015,
+      "rows": 3692,
+      "seats": 243,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "bihar_2020",
+      "state": "Bihar",
+      "stateCode": "BR",
+      "sourceYear": 2020,
+      "rows": 3975,
+      "seats": 243,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 243,
+      "comparedSeats": 243,
+      "winnerVoteTotalsMatching": 243
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "bihar_2021",
+      "state": "Bihar",
+      "stateCode": "BR",
+      "sourceYear": 2021,
+      "rows": 17,
+      "seats": 2,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 17
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "chhattisgarh_2013",
+      "state": "Chhattisgarh",
+      "stateCode": "CT",
+      "sourceYear": 2013,
+      "rows": 1076,
+      "seats": 90,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "chhattisgarh_2018",
+      "state": "Chhattisgarh",
+      "stateCode": "CT",
+      "sourceYear": 2018,
+      "rows": 1359,
+      "seats": 90,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 90,
+      "comparedSeats": 90,
+      "winnerVoteTotalsMatching": 90
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "chhattisgarh_2023",
+      "state": "Chhattisgarh",
+      "stateCode": "CT",
+      "sourceYear": 2023,
+      "rows": 890,
+      "seats": 90,
+      "sourceKinds": [
+        "eci_gap_fix",
+        "official_eci_pdf"
+      ],
+      "quality": {
+        "missingVoteRows": 25,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 96,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 90,
+      "comparedSeats": 63,
+      "winnerVoteTotalsMatching": 7,
+      "skippedUnresolvedSeats": 27,
+      "winnerVoteTotalsDiffering": 56
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "delhi_2025",
+      "state": "NCT of Delhi",
+      "stateCode": "DL",
+      "sourceYear": 2025,
+      "rows": 769,
+      "seats": 70,
+      "sourceKinds": [
+        "eci_official_statistical_report"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 70,
+      "comparedSeats": 70,
+      "winnerVoteTotalsMatching": 70
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "goa_2012",
+      "state": "Goa",
+      "stateCode": "GA",
+      "sourceYear": 2012,
+      "rows": 215,
+      "seats": 40,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "goa_2017",
+      "state": "Goa",
+      "stateCode": "GA",
+      "sourceYear": 2017,
+      "rows": 291,
+      "seats": 40,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 40,
+      "comparedSeats": 40,
+      "winnerVoteTotalsMatching": 40
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "goa_2022",
+      "state": "Goa",
+      "stateCode": "GA",
+      "sourceYear": 2022,
+      "rows": 341,
+      "seats": 40,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 40,
+      "comparedSeats": 40,
+      "winnerVoteTotalsMatching": 39,
+      "winnerVoteTotalsDiffering": 1
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "gujarat_2012",
+      "state": "Gujarat",
+      "stateCode": "GJ",
+      "sourceYear": 2012,
+      "rows": 1666,
+      "seats": 182,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "gujarat_2017",
+      "state": "Gujarat",
+      "stateCode": "GJ",
+      "sourceYear": 2017,
+      "rows": 2010,
+      "seats": 182,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 2010
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 182,
+      "skippedUnresolvedSeats": 182
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "gujarat_2021",
+      "state": "Gujarat",
+      "stateCode": "GJ",
+      "sourceYear": 2021,
+      "rows": 3,
+      "seats": 1,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 3
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "gujarat_2022",
+      "state": "Gujarat",
+      "stateCode": "GJ",
+      "sourceYear": 2022,
+      "rows": 1803,
+      "seats": 182,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 182,
+      "comparedSeats": 182,
+      "winnerVoteTotalsMatching": 182
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "haryana_2009",
+      "state": "Haryana",
+      "stateCode": "HR",
+      "sourceYear": 2009,
+      "rows": 1222,
+      "seats": 90,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "haryana_2014",
+      "state": "Haryana",
+      "stateCode": "HR",
+      "sourceYear": 2014,
+      "rows": 1441,
+      "seats": 90,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "haryana_2019",
+      "state": "Haryana",
+      "stateCode": "HR",
+      "sourceYear": 2019,
+      "rows": 1258,
+      "seats": 90,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 90,
+      "comparedSeats": 90,
+      "winnerVoteTotalsMatching": 90
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "haryana_2021",
+      "state": "Haryana",
+      "stateCode": "HR",
+      "sourceYear": 2021,
+      "rows": 19,
+      "seats": 1,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 19
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "haryana_2024",
+      "state": "Haryana",
+      "stateCode": "HR",
+      "sourceYear": 2024,
+      "rows": 1121,
+      "seats": 90,
+      "sourceKinds": [
+        "eci_official_statistical_report"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 90,
+      "comparedSeats": 90,
+      "winnerVoteTotalsMatching": 90
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "himachal_pradesh_2012",
+      "state": "Himachal Pradesh",
+      "stateCode": "HP",
+      "sourceYear": 2012,
+      "rows": 459,
+      "seats": 68,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "himachal_pradesh_2021",
+      "state": "Himachal Pradesh",
+      "stateCode": "HP",
+      "sourceYear": 2021,
+      "rows": 12,
+      "seats": 3,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 12
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "himachal_pradesh_2022",
+      "state": "Himachal Pradesh",
+      "stateCode": "HP",
+      "sourceYear": 2022,
+      "rows": 480,
+      "seats": 68,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 68,
+      "comparedSeats": 68,
+      "winnerVoteTotalsMatching": 68
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "jammu_kashmir_2014",
+      "state": "Jammu & Kashmir",
+      "stateCode": "JK",
+      "sourceYear": 2014,
+      "rows": 918,
+      "seats": 87,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 87,
+      "comparedSeats": 87,
+      "winnerVoteTotalsMatching": 87
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "jammu_kashmir_2024",
+      "state": "Jammu & Kashmir",
+      "stateCode": "JK",
+      "sourceYear": 2024,
+      "rows": 963,
+      "seats": 90,
+      "sourceKinds": [
+        "eci_official_statistical_report"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 90,
+      "comparedSeats": 90,
+      "winnerVoteTotalsMatching": 90
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "jharkhand_2009",
+      "state": "Jharkhand",
+      "stateCode": "JH",
+      "sourceYear": 2009,
+      "rows": 1491,
+      "seats": 81,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "jharkhand_2014",
+      "state": "Jharkhand",
+      "stateCode": "JH",
+      "sourceYear": 2014,
+      "rows": 1217,
+      "seats": 81,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "jharkhand_2019",
+      "state": "Jharkhand",
+      "stateCode": "JH",
+      "sourceYear": 2019,
+      "rows": 1297,
+      "seats": 81,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 81,
+      "comparedSeats": 81,
+      "winnerVoteTotalsMatching": 81
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "jharkhand_2021",
+      "state": "Jharkhand",
+      "stateCode": "JH",
+      "sourceYear": 2021,
+      "rows": 6,
+      "seats": 1,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 6
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "jharkhand_2024",
+      "state": "Jharkhand",
+      "stateCode": "JH",
+      "sourceYear": 2024,
+      "rows": 1292,
+      "seats": 81,
+      "sourceKinds": [
+        "eci_official_statistical_report"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 81,
+      "comparedSeats": 81,
+      "winnerVoteTotalsMatching": 80,
+      "winnerVoteTotalsDiffering": 1
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "karnataka_2013",
+      "state": "Karnataka",
+      "stateCode": "KA",
+      "sourceYear": 2013,
+      "rows": 2947,
+      "seats": 224,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "karnataka_2018",
+      "state": "Karnataka",
+      "stateCode": "KA",
+      "sourceYear": 2018,
+      "rows": 2843,
+      "seats": 222,
+      "sourceKinds": [
+        "local_state_csv"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 224,
+      "comparedSeats": 222,
+      "winnerVoteTotalsMatching": 222
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "karnataka_2021",
+      "state": "Karnataka",
+      "stateCode": "KA",
+      "sourceYear": 2021,
+      "rows": 39,
+      "seats": 4,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 39
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "karnataka_2023",
+      "state": "Karnataka",
+      "stateCode": "KA",
+      "sourceYear": 2023,
+      "rows": 2839,
+      "seats": 224,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 224,
+      "comparedSeats": 224,
+      "winnerVoteTotalsMatching": 221,
+      "winnerVoteTotalsDiffering": 3
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "kerala_2011",
+      "state": "Kerala",
+      "stateCode": "KL",
+      "sourceYear": 2011,
+      "rows": 971,
+      "seats": 140,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 140,
+      "comparedSeats": 140,
+      "winnerVoteTotalsMatching": 137,
+      "winnerVoteTotalsDiffering": 3
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "kerala_2016",
+      "state": "Kerala",
+      "stateCode": "KL",
+      "sourceYear": 2016,
+      "rows": 1343,
+      "seats": 140,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 140,
+      "comparedSeats": 140,
+      "winnerVoteTotalsMatching": 133,
+      "winnerVoteTotalsDiffering": 7
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "kerala_2021",
+      "state": "Kerala",
+      "stateCode": "KL",
+      "sourceYear": 2021,
+      "rows": 1096,
+      "seats": 140,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 140,
+      "comparedSeats": 140,
+      "winnerVoteTotalsMatching": 140
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "kerala_2026",
+      "state": "Kerala",
+      "stateCode": "KL",
+      "sourceYear": 2026,
+      "rows": 1023,
+      "seats": 140,
+      "sourceKinds": [
+        "eci_live_scrape"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 1023
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 140,
+      "skippedUnresolvedSeats": 140
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "madhya_pradesh_2013",
+      "state": "Madhya Pradesh",
+      "stateCode": "MP",
+      "sourceYear": 2013,
+      "rows": 2812,
+      "seats": 230,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "madhya_pradesh_2018",
+      "state": "Madhya Pradesh",
+      "stateCode": "MP",
+      "sourceYear": 2018,
+      "rows": 3128,
+      "seats": 230,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 230,
+      "comparedSeats": 230,
+      "winnerVoteTotalsMatching": 230
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "madhya_pradesh_2021",
+      "state": "Madhya Pradesh",
+      "stateCode": "MP",
+      "sourceYear": 2021,
+      "rows": 54,
+      "seats": 4,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 54
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "madhya_pradesh_2023",
+      "state": "Madhya Pradesh",
+      "stateCode": "MP",
+      "sourceYear": 2023,
+      "rows": 2091,
+      "seats": 230,
+      "sourceKinds": [
+        "eci_gap_fix",
+        "official_eci_pdf"
+      ],
+      "quality": {
+        "missingVoteRows": 158,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 548,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 230,
+      "comparedSeats": 137,
+      "winnerVoteTotalsMatching": 7,
+      "skippedUnresolvedSeats": 93,
+      "winnerVoteTotalsDiffering": 130
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "maharashtra_2009",
+      "state": "Maharashtra",
+      "stateCode": "MH",
+      "sourceYear": 2009,
+      "rows": 3559,
+      "seats": 288,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "maharashtra_2014",
+      "state": "Maharashtra",
+      "stateCode": "MH",
+      "sourceYear": 2014,
+      "rows": 4407,
+      "seats": 288,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "maharashtra_2019",
+      "state": "Maharashtra",
+      "stateCode": "MH",
+      "sourceYear": 2019,
+      "rows": 3523,
+      "seats": 288,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 288,
+      "comparedSeats": 288,
+      "winnerVoteTotalsMatching": 288
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "maharashtra_2021",
+      "state": "Maharashtra",
+      "stateCode": "MH",
+      "sourceYear": 2021,
+      "rows": 31,
+      "seats": 2,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 31
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "maharashtra_2024",
+      "state": "Maharashtra",
+      "stateCode": "MH",
+      "sourceYear": 2024,
+      "rows": 4424,
+      "seats": 288,
+      "sourceKinds": [
+        "eci_official_statistical_report"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 288,
+      "comparedSeats": 288,
+      "winnerVoteTotalsMatching": 288
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "manipur_2012",
+      "state": "Manipur",
+      "stateCode": "MN",
+      "sourceYear": 2012,
+      "rows": 279,
+      "seats": 60,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "manipur_2017",
+      "state": "Manipur",
+      "stateCode": "MN",
+      "sourceYear": 2017,
+      "rows": 326,
+      "seats": 60,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 60,
+      "winnerVoteTotalsMatching": 60
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "manipur_2022",
+      "state": "Manipur",
+      "stateCode": "MN",
+      "sourceYear": 2022,
+      "rows": 325,
+      "seats": 60,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 60,
+      "winnerVoteTotalsMatching": 60
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "meghalaya_2013",
+      "state": "Meghalaya",
+      "stateCode": "ML",
+      "sourceYear": 2013,
+      "rows": 345,
+      "seats": 60,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "meghalaya_2018",
+      "state": "Meghalaya",
+      "stateCode": "ML",
+      "sourceYear": 2018,
+      "rows": 420,
+      "seats": 59,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 59,
+      "winnerVoteTotalsMatching": 59
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "meghalaya_2021",
+      "state": "Meghalaya",
+      "stateCode": "ML",
+      "sourceYear": 2021,
+      "rows": 13,
+      "seats": 3,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 13
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "meghalaya_2023",
+      "state": "Meghalaya",
+      "stateCode": "ML",
+      "sourceYear": 2023,
+      "rows": 429,
+      "seats": 60,
+      "sourceKinds": [
+        "eci_gap_fix",
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 60,
+      "winnerVoteTotalsMatching": 60
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "mizoram_2013",
+      "state": "Mizoram",
+      "stateCode": "MZ",
+      "sourceYear": 2013,
+      "rows": 182,
+      "seats": 40,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "mizoram_2018",
+      "state": "Mizoram",
+      "stateCode": "MZ",
+      "sourceYear": 2018,
+      "rows": 249,
+      "seats": 40,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 40,
+      "comparedSeats": 40,
+      "winnerVoteTotalsMatching": 40
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "mizoram_2021",
+      "state": "Mizoram",
+      "stateCode": "MZ",
+      "sourceYear": 2021,
+      "rows": 10,
+      "seats": 2,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 10
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "mizoram_2023",
+      "state": "Mizoram",
+      "stateCode": "MZ",
+      "sourceYear": 2023,
+      "rows": 227,
+      "seats": 40,
+      "sourceKinds": [
+        "official_eci_pdf"
+      ],
+      "quality": {
+        "missingVoteRows": 20,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 189,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 40,
+      "skippedUnresolvedSeats": 40
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "nagaland_2013",
+      "state": "Nagaland",
+      "stateCode": "NL",
+      "sourceYear": 2013,
+      "rows": 187,
+      "seats": 60,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "nagaland_2018",
+      "state": "Nagaland",
+      "stateCode": "NL",
+      "sourceYear": 2018,
+      "rows": 251,
+      "seats": 58,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 58,
+      "winnerVoteTotalsMatching": 58
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "nagaland_2021",
+      "state": "Nagaland",
+      "stateCode": "NL",
+      "sourceYear": 2021,
+      "rows": 2,
+      "seats": 2,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 2
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "nagaland_2023",
+      "state": "Nagaland",
+      "stateCode": "NL",
+      "sourceYear": 2023,
+      "rows": 243,
+      "seats": 60,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 60,
+      "winnerVoteTotalsMatching": 60
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "nct_of_delhi_2013",
+      "state": "NCT of Delhi",
+      "stateCode": "DL",
+      "sourceYear": 2013,
+      "rows": 880,
+      "seats": 70,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "nct_of_delhi_2015",
+      "state": "NCT of Delhi",
+      "stateCode": "DL",
+      "sourceYear": 2015,
+      "rows": 742,
+      "seats": 70,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "nct_of_delhi_2020",
+      "state": "NCT of Delhi",
+      "stateCode": "DL",
+      "sourceYear": 2020,
+      "rows": 742,
+      "seats": 70,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 70,
+      "comparedSeats": 70,
+      "winnerVoteTotalsMatching": 70
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "odisha_2009",
+      "state": "Odisha",
+      "stateCode": "OR",
+      "sourceYear": 2009,
+      "rows": 1288,
+      "seats": 147,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "odisha_2014",
+      "state": "Odisha",
+      "stateCode": "OR",
+      "sourceYear": 2014,
+      "rows": 1567,
+      "seats": 147,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "odisha_2019",
+      "state": "Odisha",
+      "stateCode": "OR",
+      "sourceYear": 2019,
+      "rows": 1567,
+      "seats": 147,
+      "sourceKinds": [
+        "local_latest_fallback"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "odisha_2024",
+      "state": "Odisha",
+      "stateCode": "OR",
+      "sourceYear": 2024,
+      "rows": 1432,
+      "seats": 147,
+      "sourceKinds": [
+        "eci_official_statistical_report"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 147,
+      "comparedSeats": 147,
+      "winnerVoteTotalsMatching": 147
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "puducherry_2011",
+      "state": "Puducherry",
+      "stateCode": "PY",
+      "sourceYear": 2011,
+      "rows": 187,
+      "seats": 30,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "puducherry_2016",
+      "state": "Puducherry",
+      "stateCode": "PY",
+      "sourceYear": 2016,
+      "rows": 374,
+      "seats": 30,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "puducherry_2021",
+      "state": "Puducherry",
+      "stateCode": "PY",
+      "sourceYear": 2021,
+      "rows": 354,
+      "seats": 30,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 30,
+      "comparedSeats": 30,
+      "winnerVoteTotalsMatching": 30
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "puducherry_2026",
+      "state": "Puducherry",
+      "stateCode": "PY",
+      "sourceYear": 2026,
+      "rows": 324,
+      "seats": 30,
+      "sourceKinds": [
+        "eci_live_scrape"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 324
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 30,
+      "skippedUnresolvedSeats": 30
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "punjab_2012",
+      "state": "Punjab",
+      "stateCode": "PB",
+      "sourceYear": 2012,
+      "rows": 1078,
+      "seats": 117,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "punjab_2017",
+      "state": "Punjab",
+      "stateCode": "PB",
+      "sourceYear": 2017,
+      "rows": 1256,
+      "seats": 117,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 117,
+      "comparedSeats": 117,
+      "winnerVoteTotalsMatching": 117
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "punjab_2022",
+      "state": "Punjab",
+      "stateCode": "PB",
+      "sourceYear": 2022,
+      "rows": 1420,
+      "seats": 117,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 117,
+      "comparedSeats": 117,
+      "winnerVoteTotalsMatching": 115,
+      "winnerVoteTotalsDiffering": 2
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "rajasthan_2013",
+      "state": "Rajasthan",
+      "stateCode": "RJ",
+      "sourceYear": 2013,
+      "rows": 2296,
+      "seats": 200,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "rajasthan_2018",
+      "state": "Rajasthan",
+      "stateCode": "RJ",
+      "sourceYear": 2018,
+      "rows": 2472,
+      "seats": 199,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 200,
+      "comparedSeats": 199,
+      "winnerVoteTotalsMatching": 199
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "rajasthan_2021",
+      "state": "Rajasthan",
+      "stateCode": "RJ",
+      "sourceYear": 2021,
+      "rows": 43,
+      "seats": 5,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 43
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "rajasthan_2023",
+      "state": "Rajasthan",
+      "stateCode": "RJ",
+      "sourceYear": 2023,
+      "rows": 1680,
+      "seats": 200,
+      "sourceKinds": [
+        "eci_gap_fix",
+        "official_eci_pdf"
+      ],
+      "quality": {
+        "missingVoteRows": 234,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 1412,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 200,
+      "skippedUnresolvedSeats": 190,
+      "comparedSeats": 10,
+      "winnerVoteTotalsDiffering": 6,
+      "winnerVoteTotalsMatching": 4
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "sikkim_2009",
+      "state": "Sikkim",
+      "stateCode": "SK",
+      "sourceYear": 2009,
+      "rows": 167,
+      "seats": 32,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "sikkim_2014",
+      "state": "Sikkim",
+      "stateCode": "SK",
+      "sourceYear": 2014,
+      "rows": 153,
+      "seats": 32,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "sikkim_2019",
+      "state": "Sikkim",
+      "stateCode": "SK",
+      "sourceYear": 2019,
+      "rows": 153,
+      "seats": 32,
+      "sourceKinds": [
+        "local_latest_fallback"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "sikkim_2024",
+      "state": "Sikkim",
+      "stateCode": "SK",
+      "sourceYear": 2024,
+      "rows": 178,
+      "seats": 32,
+      "sourceKinds": [
+        "eci_official_statistical_report"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 32,
+      "comparedSeats": 32,
+      "winnerVoteTotalsMatching": 32
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "tamil_nadu_2011",
+      "state": "Tamil Nadu",
+      "stateCode": "TN",
+      "sourceYear": 2011,
+      "rows": 2747,
+      "seats": 234,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "tamil_nadu_2016",
+      "state": "Tamil Nadu",
+      "stateCode": "TN",
+      "sourceYear": 2016,
+      "rows": 3954,
+      "seats": 232,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "tamil_nadu_2021",
+      "state": "Tamil Nadu",
+      "stateCode": "TN",
+      "sourceYear": 2021,
+      "rows": 4227,
+      "seats": 234,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 234,
+      "comparedSeats": 234,
+      "winnerVoteTotalsMatching": 234
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "tamil_nadu_2026",
+      "state": "Tamil Nadu",
+      "stateCode": "TN",
+      "sourceYear": 2026,
+      "rows": 4247,
+      "seats": 234,
+      "sourceKinds": [
+        "eci_live_scrape"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 4247
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 234,
+      "skippedUnresolvedSeats": 234
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "telangana_2018",
+      "state": "Telangana",
+      "stateCode": "TG",
+      "sourceYear": 2018,
+      "rows": 1940,
+      "seats": 119,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 119,
+      "comparedSeats": 119,
+      "winnerVoteTotalsMatching": 119
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "telangana_2021",
+      "state": "Telangana",
+      "stateCode": "TG",
+      "sourceYear": 2021,
+      "rows": 71,
+      "seats": 2,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 71
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "telangana_2023",
+      "state": "Telangana",
+      "stateCode": "TG",
+      "sourceYear": 2023,
+      "rows": 1228,
+      "seats": 119,
+      "sourceKinds": [
+        "official_eci_pdf"
+      ],
+      "quality": {
+        "missingVoteRows": 105,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 458,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 119,
+      "skippedUnresolvedSeats": 65,
+      "comparedSeats": 54,
+      "winnerVoteTotalsDiffering": 54
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "tripura_2013",
+      "state": "Tripura",
+      "stateCode": "TR",
+      "sourceYear": 2013,
+      "rows": 249,
+      "seats": 60,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "tripura_2018",
+      "state": "Tripura",
+      "stateCode": "TR",
+      "sourceYear": 2018,
+      "rows": 351,
+      "seats": 59,
+      "sourceKinds": [
+        "local_state_rdata"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 59,
+      "winnerVoteTotalsMatching": 59
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "tripura_2022",
+      "state": "Tripura",
+      "stateCode": "TR",
+      "sourceYear": 2022,
+      "rows": 22,
+      "seats": 4,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 22
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "tripura_2023",
+      "state": "Tripura",
+      "stateCode": "TR",
+      "sourceYear": 2023,
+      "rows": 319,
+      "seats": 60,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 60,
+      "winnerVoteTotalsMatching": 60
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "uttar_pradesh_2012",
+      "state": "Uttar Pradesh",
+      "stateCode": "UP",
+      "sourceYear": 2012,
+      "rows": 6838,
+      "seats": 403,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "uttar_pradesh_2017",
+      "state": "Uttar Pradesh",
+      "stateCode": "UP",
+      "sourceYear": 2017,
+      "rows": 5254,
+      "seats": 403,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 403,
+      "comparedSeats": 403,
+      "winnerVoteTotalsMatching": 403
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "uttar_pradesh_2022",
+      "state": "Uttar Pradesh",
+      "stateCode": "UP",
+      "sourceYear": 2022,
+      "rows": 4845,
+      "seats": 403,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 403,
+      "comparedSeats": 403,
+      "winnerVoteTotalsMatching": 403
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "uttarakhand_2012",
+      "state": "Uttarakhand",
+      "stateCode": "UK",
+      "sourceYear": 2012,
+      "rows": 788,
+      "seats": 70,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "uttarakhand_2017",
+      "state": "Uttarakhand",
+      "stateCode": "UK",
+      "sourceYear": 2017,
+      "rows": 707,
+      "seats": 70,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 70,
+      "comparedSeats": 70,
+      "winnerVoteTotalsMatching": 70
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "uttarakhand_2021",
+      "state": "Uttarakhand",
+      "stateCode": "UK",
+      "sourceYear": 2021,
+      "rows": 7,
+      "seats": 1,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 7
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "uttarakhand_2022",
+      "state": "Uttarakhand",
+      "stateCode": "UK",
+      "sourceYear": 2022,
+      "rows": 702,
+      "seats": 70,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 70,
+      "comparedSeats": 70,
+      "winnerVoteTotalsMatching": 70
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "west_bengal_2011",
+      "state": "West Bengal",
+      "stateCode": "WB",
+      "sourceYear": 2011,
+      "rows": 1792,
+      "seats": 294,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "west_bengal_2016",
+      "state": "West Bengal",
+      "stateCode": "WB",
+      "sourceYear": 2016,
+      "rows": 2255,
+      "seats": 294,
+      "sourceKinds": [
+        "local_historical_eci"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 0
+      },
+      "reviewRequired": false,
+      "atlasSnapshotAvailable": false,
+      "comparedSeats": 0
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "west_bengal_2021",
+      "state": "West Bengal",
+      "stateCode": "WB",
+      "sourceYear": 2021,
+      "rows": 2452,
+      "seats": 294,
+      "sourceKinds": [
+        "tcpd_candidate_data"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 28
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 294,
+      "skippedUnresolvedSeats": 294
+    },
+    {
+      "source": "historical-assembly",
+      "electionId": "west_bengal_2026",
+      "state": "West Bengal",
+      "stateCode": "WB",
+      "sourceYear": 2026,
+      "rows": 3217,
+      "seats": 294,
+      "sourceKinds": [
+        "eci_live_scrape"
+      ],
+      "quality": {
+        "missingVoteRows": 0,
+        "negativeVoteRows": 0,
+        "fractionalVoteRows": 0,
+        "missingMonthRows": 3217
+      },
+      "reviewRequired": true,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 294,
+      "skippedUnresolvedSeats": 294
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2022Assembly-GA.csv",
+      "stateCode": "GA",
+      "sourceYear": 2022,
+      "rows": 341,
+      "seats": 40,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 40,
+      "comparedSeats": 40,
+      "winnerVoteTotalsMatching": 40,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2022Assembly-MN.csv",
+      "stateCode": "MN",
+      "sourceYear": 2022,
+      "rows": 325,
+      "seats": 60,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 60,
+      "winnerVoteTotalsMatching": 60,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2022Assembly-PB.csv",
+      "stateCode": "PB",
+      "sourceYear": 2022,
+      "rows": 1421,
+      "seats": 117,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 117,
+      "comparedSeats": 117,
+      "winnerVoteTotalsMatching": 117,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2022Assembly-UK.csv",
+      "stateCode": "UK",
+      "sourceYear": 2022,
+      "rows": 702,
+      "seats": 70,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 70,
+      "comparedSeats": 70,
+      "winnerVoteTotalsMatching": 70,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2022Assembly-UP.csv",
+      "stateCode": "UP",
+      "sourceYear": 2022,
+      "rows": 4845,
+      "seats": 403,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 403,
+      "comparedSeats": 403,
+      "winnerVoteTotalsMatching": 403,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2023Assembly-KA.csv",
+      "stateCode": "KA",
+      "sourceYear": 2023,
+      "rows": 2839,
+      "seats": 224,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 224,
+      "comparedSeats": 224,
+      "winnerVoteTotalsMatching": 224,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2023Assembly-ML.csv",
+      "stateCode": "ML",
+      "sourceYear": 2023,
+      "rows": 428,
+      "seats": 59,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 59,
+      "winnerVoteTotalsMatching": 59,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2023Assembly-NL.csv",
+      "stateCode": "NL",
+      "sourceYear": 2023,
+      "rows": 243,
+      "seats": 60,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 60,
+      "winnerVoteTotalsMatching": 60,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2023Assembly-TR.csv",
+      "stateCode": "TR",
+      "sourceYear": 2023,
+      "rows": 319,
+      "seats": 60,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 60,
+      "comparedSeats": 60,
+      "winnerVoteTotalsMatching": 60,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2024Assembly-HR.csv",
+      "stateCode": "HR",
+      "sourceYear": 2024,
+      "rows": 1121,
+      "seats": 90,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 90,
+      "comparedSeats": 90,
+      "winnerVoteTotalsMatching": 90,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2024Assembly-JH.csv",
+      "stateCode": "JH",
+      "sourceYear": 2024,
+      "rows": 1292,
+      "seats": 81,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 81,
+      "comparedSeats": 81,
+      "winnerVoteTotalsMatching": 81,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2024Assembly-JK.csv",
+      "stateCode": "JK",
+      "sourceYear": 2024,
+      "rows": 963,
+      "seats": 90,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 90,
+      "comparedSeats": 90,
+      "winnerVoteTotalsMatching": 90,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2024Assembly-MH.csv",
+      "stateCode": "MH",
+      "sourceYear": 2024,
+      "rows": 4424,
+      "seats": 288,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 288,
+      "comparedSeats": 288,
+      "winnerVoteTotalsMatching": 288,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2025Assembly-BR.csv",
+      "stateCode": "BR",
+      "sourceYear": 2025,
+      "rows": 2859,
+      "seats": 243,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 243,
+      "comparedSeats": 243,
+      "winnerVoteTotalsMatching": 243,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2025Assembly-DL.csv",
+      "stateCode": "DL",
+      "sourceYear": 2025,
+      "rows": 769,
+      "seats": 70,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 70,
+      "comparedSeats": 70,
+      "winnerVoteTotalsMatching": 70,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2026Assembly-AS.csv",
+      "stateCode": "AS",
+      "sourceYear": 2026,
+      "rows": 848,
+      "seats": 126,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 126,
+      "comparedSeats": 126,
+      "winnerVoteTotalsMatching": 126,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2026Assembly-KL.csv",
+      "stateCode": "KL",
+      "sourceYear": 2026,
+      "rows": 1023,
+      "seats": 140,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 140,
+      "comparedSeats": 140,
+      "winnerVoteTotalsMatching": 140,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2026Assembly-PY.csv",
+      "stateCode": "PY",
+      "sourceYear": 2026,
+      "rows": 324,
+      "seats": 30,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 30,
+      "comparedSeats": 30,
+      "winnerVoteTotalsMatching": 30,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2026Assembly-TN.csv",
+      "stateCode": "TN",
+      "sourceYear": 2026,
+      "rows": 4257,
+      "seats": 234,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 234,
+      "comparedSeats": 234,
+      "winnerVoteTotalsMatching": 234,
+      "reviewRequired": false
+    },
+    {
+      "source": "recent-assembly",
+      "file": "2026Assembly-WB.csv",
+      "stateCode": "WB",
+      "sourceYear": 2026,
+      "rows": 3220,
+      "seats": 294,
+      "invalidVoteRows": 0,
+      "atlasSnapshotAvailable": true,
+      "expectedAtlasSeats": 294,
+      "comparedSeats": 294,
+      "winnerVoteTotalsMatching": 294,
+      "reviewRequired": false
+    }
+  ],
+  "mappingCoverage": [
+    {
+      "era": "pre2008",
+      "stateCode": "S01",
+      "state": "Andhra Pradesh",
+      "rows": 294,
+      "uniqueAssemblyIds": 294,
+      "distinctParentSeats": 43,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S02",
+      "state": "Arunachal Pradesh",
+      "rows": 60,
+      "uniqueAssemblyIds": 60,
+      "distinctParentSeats": 2,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S03",
+      "state": "Assam",
+      "rows": 126,
+      "uniqueAssemblyIds": 126,
+      "distinctParentSeats": 14,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S04",
+      "state": "Bihar",
+      "rows": 243,
+      "uniqueAssemblyIds": 243,
+      "distinctParentSeats": 40,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S05",
+      "state": "Goa",
+      "rows": 40,
+      "uniqueAssemblyIds": 40,
+      "distinctParentSeats": 4,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S06",
+      "state": "Gujarat",
+      "rows": 182,
+      "uniqueAssemblyIds": 182,
+      "distinctParentSeats": 28,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S07",
+      "state": "Haryana",
+      "rows": 90,
+      "uniqueAssemblyIds": 90,
+      "distinctParentSeats": 10,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S08",
+      "state": "Himachal Pradesh",
+      "rows": 68,
+      "uniqueAssemblyIds": 68,
+      "distinctParentSeats": 5,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S09",
+      "state": "Jammu & Kashmir",
+      "rows": 76,
+      "uniqueAssemblyIds": 76,
+      "distinctParentSeats": 7,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S10",
+      "state": "Karnataka",
+      "rows": 224,
+      "uniqueAssemblyIds": 224,
+      "distinctParentSeats": 29,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S11",
+      "state": "Kerala",
+      "rows": 140,
+      "uniqueAssemblyIds": 140,
+      "distinctParentSeats": 18,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S12",
+      "state": "Madhya Pradesh",
+      "rows": 230,
+      "uniqueAssemblyIds": 230,
+      "distinctParentSeats": 30,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S13",
+      "state": "Maharashtra",
+      "rows": 288,
+      "uniqueAssemblyIds": 288,
+      "distinctParentSeats": 49,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S14",
+      "state": "Manipur",
+      "rows": 60,
+      "uniqueAssemblyIds": 60,
+      "distinctParentSeats": 2,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S15",
+      "state": "Meghalaya",
+      "rows": 60,
+      "uniqueAssemblyIds": 60,
+      "distinctParentSeats": 2,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S16",
+      "state": "Mizoram",
+      "rows": 40,
+      "uniqueAssemblyIds": 40,
+      "distinctParentSeats": 1,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S17",
+      "state": "Nagaland",
+      "rows": 60,
+      "uniqueAssemblyIds": 60,
+      "distinctParentSeats": 1,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S18",
+      "state": "Orissa",
+      "rows": 147,
+      "uniqueAssemblyIds": 147,
+      "distinctParentSeats": 21,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S19",
+      "state": "Punjab",
+      "rows": 117,
+      "uniqueAssemblyIds": 117,
+      "distinctParentSeats": 13,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S20",
+      "state": "Rajasthan",
+      "rows": 200,
+      "uniqueAssemblyIds": 200,
+      "distinctParentSeats": 26,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S21",
+      "state": "Sikkim",
+      "rows": 32,
+      "uniqueAssemblyIds": 32,
+      "distinctParentSeats": 1,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S22",
+      "state": "Tamil Nadu",
+      "rows": 234,
+      "uniqueAssemblyIds": 234,
+      "distinctParentSeats": 40,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S23",
+      "state": "Tripura",
+      "rows": 60,
+      "uniqueAssemblyIds": 60,
+      "distinctParentSeats": 3,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S24",
+      "state": "Uttar Pradesh",
+      "rows": 403,
+      "uniqueAssemblyIds": 403,
+      "distinctParentSeats": 80,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S25",
+      "state": "West Bengal",
+      "rows": 294,
+      "uniqueAssemblyIds": 294,
+      "distinctParentSeats": 43,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S26",
+      "state": "Chhattisgarh",
+      "rows": 90,
+      "uniqueAssemblyIds": 90,
+      "distinctParentSeats": 11,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S27",
+      "state": "Jharkhand",
+      "rows": 81,
+      "uniqueAssemblyIds": 81,
+      "distinctParentSeats": 14,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "S28",
+      "state": "Uttaranchal",
+      "rows": 70,
+      "uniqueAssemblyIds": 70,
+      "distinctParentSeats": 5,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "U05",
+      "state": "Delhi",
+      "rows": 70,
+      "uniqueAssemblyIds": 70,
+      "distinctParentSeats": 9,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "pre2008",
+      "stateCode": "U07",
+      "state": "Pondicherry",
+      "rows": 30,
+      "uniqueAssemblyIds": 30,
+      "distinctParentSeats": 4,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S01",
+      "state": "Andhra Pradesh",
+      "rows": 294,
+      "uniqueAssemblyIds": 294,
+      "distinctParentSeats": 42,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S02",
+      "state": "Arunachal Pradesh",
+      "rows": 60,
+      "uniqueAssemblyIds": 60,
+      "distinctParentSeats": 2,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S03",
+      "state": "Assam",
+      "rows": 126,
+      "uniqueAssemblyIds": 126,
+      "distinctParentSeats": 14,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S04",
+      "state": "Bihar",
+      "rows": 243,
+      "uniqueAssemblyIds": 243,
+      "distinctParentSeats": 40,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S05",
+      "state": "Goa",
+      "rows": 40,
+      "uniqueAssemblyIds": 40,
+      "distinctParentSeats": 2,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S06",
+      "state": "Gujarat",
+      "rows": 181,
+      "uniqueAssemblyIds": 181,
+      "distinctParentSeats": 26,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S07",
+      "state": "Haryana",
+      "rows": 90,
+      "uniqueAssemblyIds": 90,
+      "distinctParentSeats": 10,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S08",
+      "state": "Himachal Pradesh",
+      "rows": 68,
+      "uniqueAssemblyIds": 68,
+      "distinctParentSeats": 4,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S09",
+      "state": "Jammu & Kashmir",
+      "rows": 87,
+      "uniqueAssemblyIds": 87,
+      "distinctParentSeats": 6,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S10",
+      "state": "Karnataka",
+      "rows": 224,
+      "uniqueAssemblyIds": 224,
+      "distinctParentSeats": 28,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S11",
+      "state": "Kerala",
+      "rows": 140,
+      "uniqueAssemblyIds": 140,
+      "distinctParentSeats": 20,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S12",
+      "state": "Madhya Pradesh",
+      "rows": 230,
+      "uniqueAssemblyIds": 230,
+      "distinctParentSeats": 29,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S13",
+      "state": "Maharashtra",
+      "rows": 288,
+      "uniqueAssemblyIds": 288,
+      "distinctParentSeats": 48,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S14",
+      "state": "Manipur",
+      "rows": 60,
+      "uniqueAssemblyIds": 60,
+      "distinctParentSeats": 2,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S15",
+      "state": "Meghalaya",
+      "rows": 60,
+      "uniqueAssemblyIds": 60,
+      "distinctParentSeats": 2,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S16",
+      "state": "Mizoram",
+      "rows": 40,
+      "uniqueAssemblyIds": 40,
+      "distinctParentSeats": 1,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S17",
+      "state": "Nagaland",
+      "rows": 60,
+      "uniqueAssemblyIds": 60,
+      "distinctParentSeats": 1,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S18",
+      "state": "Odisha",
+      "rows": 147,
+      "uniqueAssemblyIds": 147,
+      "distinctParentSeats": 21,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S19",
+      "state": "Punjab",
+      "rows": 117,
+      "uniqueAssemblyIds": 117,
+      "distinctParentSeats": 13,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S20",
+      "state": "Rajasthan",
+      "rows": 200,
+      "uniqueAssemblyIds": 200,
+      "distinctParentSeats": 25,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S21",
+      "state": "Sikkim",
+      "rows": 32,
+      "uniqueAssemblyIds": 32,
+      "distinctParentSeats": 1,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S22",
+      "state": "Tamil Nadu",
+      "rows": 234,
+      "uniqueAssemblyIds": 234,
+      "distinctParentSeats": 39,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S23",
+      "state": "Tripura",
+      "rows": 60,
+      "uniqueAssemblyIds": 60,
+      "distinctParentSeats": 2,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S24",
+      "state": "Uttar Pradesh",
+      "rows": 403,
+      "uniqueAssemblyIds": 403,
+      "distinctParentSeats": 80,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S25",
+      "state": "West Bengal",
+      "rows": 294,
+      "uniqueAssemblyIds": 294,
+      "distinctParentSeats": 42,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S26",
+      "state": "Chhattisgarh",
+      "rows": 90,
+      "uniqueAssemblyIds": 90,
+      "distinctParentSeats": 11,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S27",
+      "state": "Jharkhand",
+      "rows": 81,
+      "uniqueAssemblyIds": 81,
+      "distinctParentSeats": 14,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "S28",
+      "state": "Uttarakhand",
+      "rows": 70,
+      "uniqueAssemblyIds": 70,
+      "distinctParentSeats": 5,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "U05",
+      "state": "Delhi",
+      "rows": 70,
+      "uniqueAssemblyIds": 70,
+      "distinctParentSeats": 7,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    },
+    {
+      "era": "post2008",
+      "stateCode": "U07",
+      "state": "Puducherry",
+      "rows": 30,
+      "uniqueAssemblyIds": 30,
+      "distinctParentSeats": 1,
+      "missingParentRows": 0,
+      "status": "reference-only; independently review by era before joining"
+    }
+  ],
+  "limitations": [
+    "Raw election IDs are not a validated count of general elections; some source dates are ambiguous.",
+    "Recent files overlap the historical bundle: do not sum row counts as unique candidates.",
+    "Winner-vote comparisons do not verify identity, full candidate rosters, party or coalition labels.",
+    "All mappings are era-specific references; pre/post delimitation IDs must not be joined directly.",
+    "No pre-2009 state results, pre-2019 national results, legislative careers, new biographies or manifesto assessments are imported here."
+  ]
+}

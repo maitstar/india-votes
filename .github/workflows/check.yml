@@ -16,5 +16,6 @@ jobs:
           python-version: '3.x'
       - run: npm ci
       - run: python3 scripts/check_kerala_import.py
+      - run: python3 scripts/check_india_import.py
       - run: python3 build.py
       - run: npm test

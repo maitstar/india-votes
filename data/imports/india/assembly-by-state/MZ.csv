@@ -1,0 +1,669 @@
+election_id,election_year,election_month,election_month_label,state_name,constituency_no,constituency_name,candidate,party,evm_votes,postal_votes,total_votes,vote_pct,position,winner,source_kind,source_dataset,source_file,source_url,fetch_method
+mizoram_2013,2013,12.0,Dec,Mizoram,1,Hachhek,LALRINMAWIA RALTE,INC,,,7852.0,45.347964192896335,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,1,Hachhek,SAIKAPTHIANGA,MNF,,,5519.0,31.87409760323419,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,1,Hachhek,LALHMINGTHANGA,NCP,,,2467.0,14.247762056020791,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,1,Hachhek,LALZAMLOVA TOCHHAWNG,ZNP,,,1139.0,6.578111464048513,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,1,Hachhek,None of the Above,NOTA,,,183.0,1.0568870921166618,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,1,Hachhek,PAZAWNA,BJP,,,155.0,0.8951775916835114,6,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,2,Dampa,LALROBIAKA,INC,,,6172.0,43.27280375797518,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,2,Dampa,LIANSUAMA,MNF,,,5011.0,35.13286124938652,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,2,Dampa,LALRIMAWIA,ZNP,,,2878.0,20.178083152212018,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,2,Dampa,R LALTAWNLIANA,BJP,,,121.0,0.8483488747107901,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,2,Dampa,None of the Above,NOTA,,,81.0,0.5679029657154876,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,3,Mamit,JOHN ROTLUANGLIANA,INC,,,7798.0,45.813994477410255,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,3,Mamit,H.B. LIANMUNGA,MNF,,,5308.0,31.18500675635979,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,3,Mamit,BIAKTHUAMA MOLSHOY,NCP,,,2368.0,13.912226073673697,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,3,Mamit,H LALTANPUIA,ZNP,,,1296.0,7.614123729510604,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,3,Mamit,None of the Above,NOTA,,,151.0,0.8871394160155103,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,3,Mamit,C DARLIANTHANGA,BJP,,,100.0,0.5875095470301392,6,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,4,Tuirial,HMINGDAILOVA KHIANGTE,INC,,,5119.0,39.12412106389483,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,4,Tuirial,JOSEPH L. RALTE,ZNP,,,4880.0,37.297462549679,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,4,Tuirial,DR. KENNETH CHAWNGLIANA,MPC,,,2982.0,22.791195353103028,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,4,Tuirial,None of the Above,NOTA,,,103.0,0.7872210333231427,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,5,Kolasib,P.C. ZORAM SANGLIANA,INC,,,6078.0,38.05886036318096,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,5,Kolasib,LALCHAMLIANA,MNF,,,5483.0,34.3331246086412,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,5,Kolasib,LALDUHOMA,ZNP,,,4128.0,25.848465873512836,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,5,Kolasib,RAMFANGZAUVI,BJP,,,159.0,0.9956167814652473,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,5,Kolasib,None of the Above,NOTA,,,122.0,0.7639323731997495,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,6,Serlui,K. LALRINTHANGA,INC,,,5664.0,40.51502145922747,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,6,Serlui,LALHMINGLIANA,MNF,,,4258.0,30.457796852646638,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,6,Serlui,R. LALAWIA,ZNP,,,3549.0,25.386266094420602,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,6,Serlui,H.A. DAWNGLIANA,BJP,,,354.0,2.532188841201717,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,6,Serlui,None of the Above,NOTA,,,155.0,1.1087267525035764,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,7,Tuivawl,R. L. PIANMAWIA,INC,,,5668.0,45.40575182247857,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,7,Tuivawl,GOGO LALREMTLUANGA,MNF,,,4297.0,34.42281502843868,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,7,Tuivawl,LALMUANPUIA PUNTE,ZNP,,,2412.0,19.32227829848594,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,7,Tuivawl,C. RAMKINLOVA,BJP,,,63.0,0.5046863734679163,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,7,Tuivawl,None of the Above,NOTA,,,43.0,0.3444684771288953,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,8,Chalfilh,DR. NGURDINGLIANA,INC,,,7174.0,50.83977039189285,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,8,Chalfilh,L. T. KIMA FANAI,MPC,,,3446.0,24.42066472964354,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,8,Chalfilh,J. LALCHHANHIMA,ZNP,,,3368.0,23.867904471688753,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,8,Chalfilh,None of the Above,NOTA,,,123.0,0.8716604067748565,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,9,Tawi,R LALZIRLIANA,INC,,,5757.0,45.42370206722424,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,9,Tawi,LALMALSAWMI,MNF,,,4810.0,37.95171216664037,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,9,Tawi,R. LALTHATLUANGA,ZNP,,,2023.0,15.96181158276787,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,9,Tawi,None of the Above,NOTA,,,84.0,0.662774183367524,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,10,Aizawl North - i,R. ROMAWIA,INC,,,5970.0,37.08304863656128,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,10,Aizawl North - i,VANLALHLANA,MPC,,,5313.0,33.002049816758806,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,10,Aizawl North - i,C. LALMALSAWMA,ZNP,,,4564.0,28.34958693086527,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,10,Aizawl North - i,DAVID LALFAKZUALA,BJP,,,137.0,0.8509845332008199,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,10,Aizawl North - i,None of the Above,NOTA,,,115.0,0.7143300826138269,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,11,Aizawl North - ii,LALTHANLIANA,MPC,,,6875.0,41.533256811454116,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,11,Aizawl North - ii,H. LIANSAILOVA,INC,,,6564.0,39.654443303328705,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,11,Aizawl North - ii,LALCHHANHIMA PAUTU,ZNP,,,2931.0,17.706760103908657,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,11,Aizawl North - ii,None of the Above,NOTA,,,123.0,0.7430677218631064,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,11,Aizawl North - ii,C LALNUNZIRI,BJP,,,60.0,0.36247205944541777,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,12,Aizawl North-iii,LAL THANZARA,INC,,,6262.0,45.475671750181554,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,12,Aizawl North-iii,LALCHHANDAMA RALTE,MNF,,,5512.0,40.02904865649964,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,12,Aizawl North-iii,R. K. DANIELA,ZNP,,,1878.0,13.638344226579521,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,12,Aizawl North-iii,None of the Above,NOTA,,,82.0,0.5954974582425563,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,12,Aizawl North-iii,BIAKMAWIA,BJP,,,36.0,0.26143790849673204,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,13,Aizawl East - i,R. LALRINAWMA,INC,,,6221.0,37.71674548320601,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,13,Aizawl East - i,LALHMANGAIHA SAILO,MPC,,,5799.0,35.15823935976719,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,13,Aizawl East - i,ZARZOLIANA,ZNP,,,4291.0,26.015520795440768,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,13,Aizawl East - i,THANGCHUNGNUNGA,BJP,,,98.0,0.5941554504668364,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,13,Aizawl East - i,None of the Above,NOTA,,,85.0,0.5153389111191948,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,14,Aizawl East ii,LALSAWTA,INC,,,4992.0,38.30864860716753,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,14,Aizawl East ii,SAILOTHANGA SAILO,MNF,,,4815.0,36.95034916737012,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,14,Aizawl East ii,K. LALTUVELA,ZNP,,,3131.0,24.027319468958638,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,14,Aizawl East ii,None of the Above,NOTA,,,93.0,0.7136827565037219,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,15,Aizawl West i,K SANGTHUAMA,MNF,,,6387.0,36.608012838883475,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,15,Aizawl West i,TLANGTHANMAWII,INC,,,5925.0,33.95999312202671,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,15,Aizawl West i,LALDUHOMA,ZNP,,,4894.0,28.050667736573622,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,15,Aizawl West i,None of the Above,NOTA,,,136.0,0.7795036395941995,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,15,Aizawl West i,KAPMAWIA RALTE,BJP,,,105.0,0.6018226629219923,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,16,Aizawl West ii,LALRUATKIMA,MNF,,,6575.0,43.47394869082253,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,16,Aizawl West ii,DR. LALMALSAWMA NGHAKA,INC,,,5945.0,39.30838402539011,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,16,Aizawl West ii,C. ROPIANGA,ZNP,,,2530.0,16.728378735784183,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,16,Aizawl West ii,None of the Above,NOTA,,,74.0,0.4892885480031738,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,17,Aizawl West iii,VANLALZAWMA,MNF,,,5765.0,37.985109046583645,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,17,Aizawl West iii,R. SELTHUAMA,INC,,,4787.0,31.541147789418197,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,17,Aizawl West iii,DR. C. T. TLUANGA,ZNP,,,4534.0,29.87415167687949,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,17,Aizawl West iii,None of the Above,NOTA,,,91.0,0.5995914871186664,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,18,Aizawl South i,R. VANLALVENA,INC,,,6463.0,39.58716158275144,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,18,Aizawl South i,R. K. LIANZUALA,MNF,,,5167.0,31.648903589366654,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,18,Aizawl South i,K LIANTLINGA,ZNP,,,4616.0,28.273918902364326,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,18,Aizawl South i,None of the Above,NOTA,,,80.0,0.49001592551757933,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,19,Aizawl South ii,LT. COL. ZOSANGZUALA,INC,,,6878.0,39.79402915991668,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,19,Aizawl South ii,R. TLANGHMINGTHANGA,MNF,,,5835.0,33.759546401296,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,19,Aizawl South ii,RINZAWNA,ZNP,,,4451.0,25.752140708169406,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,19,Aizawl South ii,None of the Above,NOTA,,,120.0,0.6942837306179125,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,20,Aizawl South-iii,K. S. THANGA,INC,,,6594.0,41.49518595431376,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,20,Aizawl South-iii,TAWNLUIA,MNF,,,5927.0,37.29784154552892,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,20,Aizawl South-iii,R. VANLALTLUANGA,ZNP,,,3292.0,20.71612862626644,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,20,Aizawl South-iii,None of the Above,NOTA,,,78.0,0.49084387389088163,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,21,Lengteng,H .ROHLUNA,INC,,,5682.0,42.828069646491294,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,21,Lengteng,L .THANGMAWIA,MNF,,,5515.0,41.56930730383659,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,21,Lengteng,H.GINZALALA,ZNP,,,1944.0,14.652898168387729,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,21,Lengteng,ZORAMCHHANI,BJP,,,80.0,0.6029999246250094,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,21,Lengteng,None of the Above,NOTA,,,46.0,0.3467249566593804,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,22,Tuichang,LALRINLIANA SAILO,INC,,,6258.0,48.66251944012442,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,22,Tuichang,DR. H .LALLUNGMUANA,MNF,,,3273.0,25.451010886469675,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,22,Tuichang,LALBIAKZAMA,ZNP,,,3229.0,25.10886469673406,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,22,Tuichang,None of the Above,NOTA,,,100.0,0.7776049766718507,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,23,Champhai North,T.T. ZOTHANSANGA,INC,,,5934.0,42.440280360463454,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,23,Champhai North,T.C. KAPHMINGTHANGA,MNF,,,4464.0,31.92676298097554,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,23,Champhai North,C .LALREMLIANA,ZNP,,,3373.0,24.12387355170934,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,23,Champhai North,C .ROLIANA,BJP,,,106.0,0.758117579745387,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,23,Champhai North,None of the Above,NOTA,,,105.0,0.7509655271062795,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,24,Champhai South,JH.ROTHUAMA,INC,,,5203.0,40.99432713520328,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,24,Champhai South,ROSIAMNGHETA,MPC,,,3553.0,27.994011976047904,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,24,Champhai South,VANLALNEIHA RALTE,ZNP,,,2471.0,19.468956823195715,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,24,Champhai South,B .SANGKHUMI,IND,,,1397.0,11.006933501418215,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,24,Champhai South,None of the Above,NOTA,,,68.0,0.5357705641348881,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,25,East tuipui,T. SANGKUNGA,INC,,,4926.0,43.36649352935998,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,25,East tuipui,ZORAMTHANGA,MNF,,,4128.0,36.341227220706045,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,25,East tuipui,W.CHHUANAWMA,ZNP,,,2204.0,19.40311647152038,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,25,East tuipui,None of the Above,NOTA,,,64.0,0.5634298793907915,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,25,East tuipui,LALRAWNA,BJP,,,37.0,0.3257328990228013,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,26,Serchhip,LAL THANHAWLA,INC,,,5719.0,41.478096895851465,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,26,Serchhip,C. LALRAMZAUVA,MNF,,,4985.0,36.15462721206846,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,26,Serchhip,P.B. LALSAWMLIANA,ZNP,,,2899.0,21.025529445894982,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,26,Serchhip,LALAWMPUIA RENTHLEI,IND,,,120.0,0.8703220191470844,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,26,Serchhip,None of the Above,NOTA,,,65.0,0.4714244270380041,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,27,Tuikum,ER. LALRINAWMA,MNF,,,4467.0,35.528513481269385,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,27,Tuikum,K. LIANZUALA,INC,,,4453.0,35.41716376362046,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,27,Tuikum,PC VANLALRUATA,ZNP,,,3575.0,28.433945756780403,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,27,Tuikum,None of the Above,NOTA,,,78.0,0.6203769983297542,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,28,Hrangturzo,LAL THANHAWLA,INC,,,5173.0,42.21478700832381,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,28,Hrangturzo,LALTHANSANGA,MPC,,,3545.0,28.92932919862902,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,28,Hrangturzo,H. LALDUHAWMA,ZNP,,,3412.0,27.843969316141667,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,28,Hrangturzo,None of the Above,NOTA,,,56.0,0.4569936347315162,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,28,Hrangturzo,LALAWMPUIA RENTHLEI,IND,,,39.0,0.3182634241880202,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,28,Hrangturzo,F. REMKHUMA,JMBP,,,29.0,0.23665741798596376,6,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,29,South tuipui,JOHN SIAMKUNGA,INC,,,4912.0,42.436285097192226,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,29,South tuipui,J. LALCHHUANA,ZNP,,,3344.0,28.889848812095032,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,29,South tuipui,Z.H. ROPUIA,MNF,,,3217.0,27.792656587473,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,29,South tuipui,PC. REMTHANGA,BJP,,,53.0,0.45788336933045354,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,29,South tuipui,None of the Above,NOTA,,,49.0,0.42332613390928725,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,30,Lunglei North,P.C. LALTHANLIANA,INC,,,6168.0,47.14515019490943,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,30,Lunglei North,DR. K.VANLALLAWMA,MNF,,,5298.0,40.49529924329282,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,30,Lunglei North,RD. LALRAMMAWIA,ZNP,,,1373.0,10.494534892608728,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,30,Lunglei North,S. L. SAILOVA,IND,,,208.0,1.5898494229152336,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,30,Lunglei North,None of the Above,NOTA,,,36.0,0.27516624627379044,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,31,Lunglei East,JOSEPH LALHIMPUIA,INC,,,5367.0,49.324510614833194,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,31,Lunglei East,LALRINZUALA,MPC,,,3756.0,34.51888613178936,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,31,Lunglei East,PC. LALDUHTHLANGA,ZNP,,,1661.0,15.265141071592684,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,31,Lunglei East,None of the Above,NOTA,,,97.0,0.8914621817847624,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,32,Lunglei West,CHALROSANGA RALTE,INC,,,5174.0,46.274930685985154,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,32,Lunglei West,DR. R. LALTHANGLIANA,MNF,,,5080.0,45.4342187639746,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,32,Lunglei West,R. LALRAMZAUVA,ZNP,,,846.0,7.566407298094982,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,32,Lunglei West,None of the Above,NOTA,,,81.0,0.7244432519452643,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,33,Lunglei South,S. LALDINGLIANA,INC,,,6230.0,47.448591012947446,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,33,Lunglei South,DR. K PACHHUNGA,MNF,,,5780.0,44.02132520944402,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,33,Lunglei South,DR. AICHHUNGA,ZNP,,,1037.0,7.897943640517898,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,33,Lunglei South,None of the Above,NOTA,,,83.0,0.6321401370906321,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,34,Thorang,ZODINTLUANGA,INC,,,6423.0,59.1545404310186,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,34,Thorang,JOSEPH LALZAWMLIANA,MNF,,,3919.0,36.09320316817093,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,34,Thorang,ELIS LUNGTIAWIA,ZNP,,,347.0,3.195800331552772,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,34,Thorang,None of the Above,NOTA,,,169.0,1.55645606925769,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,35,West tuipui,NIHAR KANTI CHAKMA,INC,,,6914.0,63.84118190212373,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,35,West tuipui,PRITI RANJAN CHAKMA,MNF,,,3580.0,33.05632502308403,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,35,West tuipui,LALRINPUIA,ZNP,,,180.0,1.6620498614958448,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,35,West tuipui,ZOREMSIAMA,BJP,,,101.0,0.9325946445060018,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,35,West tuipui,None of the Above,NOTA,,,55.0,0.5078485687903971,5,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,36,Tuichawng,BUDDHA DHAN CHAKMA,INC,,,14626.0,69.42611667536906,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,36,Tuichawng,RASIK MOHAN CHAKMA,MNF,,,5900.0,28.00588598281673,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,36,Tuichawng,VICTOR TALUKDAR,BJP,,,374.0,1.7752883656904164,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,36,Tuichawng,None of the Above,NOTA,,,167.0,0.7927089761237955,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,37,Lawngtlai West,C.NGUNLIANCHUNGA,INC,,,10323.0,52.71947295848016,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,37,Lawngtlai West,C.RAMHLUNA,MNF,,,8788.0,44.880241049997444,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,37,Lawngtlai West,MC.LALRAMCHHANA,ZNP,,,320.0,1.6342372708237578,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,37,Lawngtlai West,None of the Above,NOTA,,,150.0,0.7660487206986364,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,38,Lawngtlai East,H.ZOTHANGLIANA,INC,,,8191.0,48.64880917027974,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,38,Lawngtlai East,VANUPA ZATHANG,MNF,,,7918.0,47.02738017461543,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,38,Lawngtlai East,F. SANGDAWNA,ZNP,,,642.0,3.8130308249688185,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,38,Lawngtlai East,None of the Above,NOTA,,,86.0,0.51077983013601,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,39,Saiha,DR. K. BEICHHUA,MNF,,,7324.0,49.61723460470158,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,39,Saiha,S. HIATO,INC,,,7102.0,48.113271458573266,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,39,Saiha,F. LALHMACHHUANA,ZNP,,,274.0,1.8562428019781858,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,39,Saiha,None of the Above,NOTA,,,61.0,0.41325113474696834,4,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,40,Palak,HIPHEI,INC,,,7256.0,56.86074759031424,1,True,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,40,Palak,PP. THAWLA,MDF,,,5433.0,42.575033304599955,2,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2013,2013,12.0,Dec,Mizoram,40,Palak,None of the Above,NOTA,,,72.0,0.5642191050858083,3,False,local_historical_eci,allhistoricalelectionsEC.RData,allhistoricalelectionsEC.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,1,Hachhek,LALRINDIKA RALTE,Indian National Congress,,,6202.0,33.322587577906724,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,1,Hachhek,LALRINENGA SAILO,Mizo National Front,,,5836.0,31.356114334837738,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,1,Hachhek,VANLALRUATA PACHUAU,Bharatiya Janata Party,,,4399.0,23.635289060820977,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,1,Hachhek,H LALLIANZUALA,Independent,,,1373.0,7.376961100365356,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,1,Hachhek,EDDY ZOSANGLIANA COLNEY,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,250.0,1.3432194283258112,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,1,Hachhek,None of the Above,None of the Above,,,250.0,1.3432194283258112,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,1,Hachhek,LALZENGHAKI,Independent,,,133.0,0.7145927358693316,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,1,Hachhek,J. LALSAILOVA,Independent,,,91.0,0.48893187191059534,8,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,1,Hachhek,C RAMKINLOVA,Nationalist Congress Party,,,78.0,0.4190844616376531,9,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,2,Dampa,LALRINTLUANGA SAILO,Mizo National Front,,,5840.0,37.993624357556435,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,2,Dampa,LALROBIAKA,Indian National Congress,,,4183.0,27.213584021859347,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,2,Dampa,ER. K. LALRIMAWIA,Bharatiya Janata Party,,,3051.0,19.84906642378505,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,2,Dampa,F LALRINTLUANGI,Independent,,,1920.0,12.491054583306227,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,2,Dampa,LALRINZUALA CHAWNGTHU,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,133.0,0.865265760197775,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,2,Dampa,LIANZUALA,National People's Party,,,106.0,0.6896103051200312,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,2,Dampa,None of the Above,None of the Above,,,77.0,0.5009433348513435,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,2,Dampa,LALCHUHVELA,Independent,,,33.0,0.21469000065057575,8,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,2,Dampa,LALAWMPUIA CHHANGTE,Nationalist Congress Party,,,28.0,0.1821612126732158,9,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,3,Mamit,H. LALZIRLIANA,Mizo National Front,,,6874.0,35.38556573664162,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,3,Mamit,JOHN ROTLUANGLIANA,Indian National Congress,,,6467.0,33.29043549881602,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,3,Mamit,MALSAWMTLUANGA,Bharatiya Janata Party,,,4528.0,23.3089673633275,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,3,Mamit,C.ZOTHANSANGA,Independent,,,1122.0,5.775764439411098,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,3,Mamit,None of the Above,None of the Above,,,190.0,0.9780706269947493,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,3,Mamit,LIANZUALA,National People's Party,,,90.0,0.46329661278698653,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,3,Mamit,LALAWMPUIA CHHANGTE,Nationalist Congress Party,,,80.0,0.41181921136621025,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,3,Mamit,B.LALHMUNZAWNGA,Independent,,,75.0,0.3860805106558221,8,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,4,Tuirial,ANDREW H. THANGLIANA,Independent,,,4387.0,30.796770796770797,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,4,Tuirial,SAILOTHANGA SAILO,Mizo National Front,,,4183.0,29.364689364689365,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,4,Tuirial,JOSEPH L. RALTE,Indian National Congress,,,3748.0,26.310986310986312,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,4,Tuirial,HMINGDAILOVA KHIANGTE,National People's Party,,,1209.0,8.487188487188487,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,4,Tuirial,JACOB T. VANLAWMA,Bharatiya Janata Party,,,487.0,3.4187434187434187,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,4,Tuirial,B. VANLALHRUAIA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,104.0,0.73008073008073,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,4,Tuirial,V. LALENNAWMA,Independent,,,66.0,0.46332046332046334,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,4,Tuirial,None of the Above,None of the Above,,,61.0,0.4282204282204282,8,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,5,Kolasib,K. LALRINLIANA,Mizo National Front,,,5940.0,33.35017685699849,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,5,Kolasib,LALFAMKIMA,Independent,,,5661.0,31.783729156139465,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,5,Kolasib,DR. NGURDINGLIANA,Indian National Congress,,,5232.0,29.375105272022907,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,5,Kolasib,B. LIANTHLIRA,Bharatiya Janata Party,,,504.0,2.829711975745326,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,5,Kolasib,JOHN LALREMRUATA,National People's Party,,,288.0,1.6169782718544718,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,5,Kolasib,None of the Above,None of the Above,,,106.0,0.5951378361686598,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,5,Kolasib,ZODINSANGA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,80.0,0.44916063107068666,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,6,Serlui,LALRINSANGA RALTE,Mizo National Front,,,6128.0,38.16879476798505,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,6,Serlui,LALHMACHHUANA,Indian National Congress,,,5201.0,32.39489255683588,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,6,Serlui,LALMUANPUIA PUNTE,Independent,,,1995.0,12.42603550295858,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,6,Serlui,VANLALHMUAKA,Bharatiya Janata Party,,,1959.0,12.201806290875117,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,6,Serlui,HMINGCHUNGNUNGA,National People's Party,,,638.0,3.973839925256929,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,6,Serlui,None of the Above,None of the Above,,,134.0,0.834630956088446,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,7,Tuivawl,LALCHHANDAMA RALTE,Mizo National Front,,,5207.0,39.41412459314208,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,7,Tuivawl,R. L. PIANMAWIA,Indian National Congress,,,5204.0,39.39141624403906,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,7,Tuivawl,JUDY ZOHMINGLIANI,Bharatiya Janata Party,,,1607.0,12.164105669517825,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,7,Tuivawl,K. ROMAWIA,Independent,,,1083.0,8.197714026190296,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,7,Tuivawl,H. K. HLIMPAWLTHANGA,Independent,,,58.0,0.4390280826583907,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,7,Tuivawl,None of the Above,None of the Above,,,52.0,0.39361138445235033,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,8,Chalfilh,LALRINLIANA SAILO,Mizo National Front,,,5541.0,36.99425824542663,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,8,Chalfilh,F. RUALHLEIA,Independent,,,4534.0,30.271064227533717,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,8,Chalfilh,L. T. HRANGCHAL,Indian National Congress,,,4144.0,27.667245293096542,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,8,Chalfilh,P. SANGHMINGTHANGA,Bharatiya Janata Party,,,678.0,4.526639070636934,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,8,Chalfilh,None of the Above,None of the Above,,,81.0,0.5407931633061824,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,9,Tawi,R.LALZIRLIANA,Mizo National Front,,,4940.0,37.353497164461245,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,9,Tawi,R. LALTHATLUANGA,Independent,,,4756.0,35.96219281663516,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,9,Tawi,ROSIAMNGHETA,Indian National Congress,,,2630.0,19.886578449905482,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,9,Tawi,PROF.J.V.HLUNA,Bharatiya Janata Party,,,714.0,5.398865784499055,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,9,Tawi,H.LALREMSIAMA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,97.0,0.7334593572778828,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,9,Tawi,LALZENGHAKI,Independent,,,49.0,0.3705103969754253,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,9,Tawi,None of the Above,None of the Above,,,39.0,0.2948960302457467,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,10,Aizawl North,VANLALHLANA,Independent,,,7094.0,40.092686786481295,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,10,Aizawl North,LALRINGLIANA,Mizo National Front,,,5929.0,33.508533966316264,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,10,Aizawl North,C.LALHLIMPUIA,Indian National Congress,,,3595.0,20.31762179269809,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,10,Aizawl North,LALRUATFELI HLAWNDO,Independent,,,700.0,3.9561433254210465,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,10,Aizawl North,DAVID LALFAKZUALA,Bharatiya Janata Party,,,225.0,1.2716174974567651,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,10,Aizawl North,VANLALRUATA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,77.0,0.4351757657963151,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,10,Aizawl North,None of the Above,None of the Above,,,74.0,0.41822086583022494,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,11,Aizawl North,VANLALTHLANA,Independent,,,7775.0,42.92734098939929,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,11,Aizawl North,LALTLANZOVA KHIANGTE,Mizo National Front,,,5974.0,32.98365724381625,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,11,Aizawl North,H. LIANSAILOVA,Indian National Congress,,,4106.0,22.670053003533567,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,11,Aizawl North,LALHRILZELI HLAWNDO,Independent,,,98.0,0.541077738515901,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,11,Aizawl North,C. LALNUNZIRI,Bharatiya Janata Party,,,69.0,0.38096289752650175,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,11,Aizawl North,None of the Above,None of the Above,,,51.0,0.28158127208480566,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,11,Aizawl North,ROCHUNGNUNGA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,39.0,0.21532685512367492,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,12,Aizawl North-iii,C LALMUANPUIA,Mizo National Front,,,5166.0,35.207524023717035,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,12,Aizawl North-iii,LAL THANZARA,Indian National Congress,,,4732.0,32.24971035234785,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,12,Aizawl North-iii,LALHMINGTHANGA,Independent,,,4510.0,30.736727322292648,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,12,Aizawl North-iii,LALREMSIAMA RALTE,Independent,,,139.0,0.9473182035030328,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,12,Aizawl North-iii,VL AWIA,Bharatiya Janata Party,,,77.0,0.5247733933074354,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,12,Aizawl North-iii,None of the Above,None of the Above,,,49.0,0.33394670483200434,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,13,Aizawl East,ZORAMTHANGA,Mizo National Front,,,8358.0,42.74973147153598,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,13,Aizawl East,K SAPDANGA,Independent,,,5854.0,29.94220244488773,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,13,Aizawl East,K VANLALRAWNA,Indian National Congress,,,4768.0,24.387499360646515,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,13,Aizawl East,LALDINLIANA SAILO,Bharatiya Janata Party,,,260.0,1.329855250370825,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,13,Aizawl East,ZOSANGLIANA,Independent,,,146.0,0.7467648713620787,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,13,Aizawl East,K. LALRINPUII,Nationalist Congress Party,,,102.0,0.5217124443762468,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,13,Aizawl East,None of the Above,None of the Above,,,63.0,0.322234156820623,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,14,Aizawl East ii,ROBERT ROMAWIA ROYTE,Mizo National Front,,,5869.0,41.26414961681783,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,14,Aizawl East ii,B LALCHHANZOVA,Independent,,,4377.0,30.774098291499683,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,14,Aizawl East ii,LALSAWTA,Indian National Congress,,,3818.0,26.84384447725515,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,14,Aizawl East ii,T LALMALSAWMI,Bharatiya Janata Party,,,112.0,0.7874569359488153,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,14,Aizawl East ii,None of the Above,None of the Above,,,47.0,0.3304506784785207,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,15,Aizawl West i,LALDUHOMA,Independent,,,7889.0,38.71331828442438,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,15,Aizawl West i,K. SANGTHUAMA,Mizo National Front,,,6829.0,33.51163018941996,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,15,Aizawl West i,P.C. LALTLANSANGA,Indian National Congress,,,5039.0,24.72764746295024,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,15,Aizawl West i,LALRODINGA COLNEY,Bharatiya Janata Party,,,287.0,1.408381587987045,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,15,Aizawl West i,ZAICHHAWNA HLAWNDO,Independent,,,228.0,1.118853665717931,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,15,Aizawl West i,None of the Above,None of the Above,,,60.0,0.29443517518892925,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,15,Aizawl West i,LALHRUAIA,Nationalist Congress Party,,,46.0,0.22573363431151242,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,16,Aizawl West ii,LALRUATKIMA,Mizo National Front,,,7626.0,45.20182561792425,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,16,Aizawl West ii,DR. LALMALSAWMA NGHAKA,Indian National Congress,,,4906.0,29.079485507675894,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,16,Aizawl West ii,LALHMANGAIHA SAILO,Independent,,,4070.0,24.12423685614368,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,16,Aizawl West ii,C LALCHAWIMAWIA,Bharatiya Janata Party,,,106.0,0.628297077825855,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,16,Aizawl West ii,DR LALMUANA,Independent,,,80.0,0.47418647383083395,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,16,Aizawl West ii,C LALTANPUIA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,48.0,0.2845118842985004,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,16,Aizawl West ii,None of the Above,None of the Above,,,35.0,0.20745658230098987,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,17,Aizawl West iii,V.L. ZAITHANZAMA,Independent,,,6934.0,41.22473246135553,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,17,Aizawl West iii,VANLALZAWMA,Mizo National Front,,,5908.0,35.12485136741974,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,17,Aizawl West iii,DR. C.T. TLUANGA,Indian National Congress,,,3521.0,20.933412604042807,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,17,Aizawl West iii,R LALZAMLIANA,Bharatiya Janata Party,,,400.0,2.3781212841854935,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,17,Aizawl West iii,None of the Above,None of the Above,,,57.0,0.3388822829964328,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,18,Aizawl South i,C. LALSAWIVUNGA,Independent,,,6808.0,39.59060246568969,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,18,Aizawl South i,K. LIANTLINGA,Mizo National Front,,,5759.0,33.49034659223075,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,18,Aizawl South i,R. VANLALVENA,Indian National Congress,,,4208.0,24.47080716445685,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,18,Aizawl South i,DR ZONUNTLUANGA,Bharatiya Janata Party,,,177.0,1.0293091416608513,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,18,Aizawl South i,HK LIANSAWTA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,111.0,0.6454989532449407,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,18,Aizawl South i,LALTHLAMUANI,Independent,,,69.0,0.40125610607117934,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,18,Aizawl South i,None of the Above,None of the Above,,,64.0,0.3721795766457316,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,19,Aizawl South ii,LALCHHUANTHANGA,Independent,,,7294.0,37.441609773625586,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,19,Aizawl South ii,DENGHMINGTHANGA,Mizo National Front,,,7115.0,36.52276577177763,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,19,Aizawl South ii,LT. COL. ZOSANGZUALA,Indian National Congress,,,4836.0,24.82418767003747,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,19,Aizawl South ii,R LALCHHUANAWMI,Independent,,,173.0,0.8880447615625481,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,19,Aizawl South ii,None of the Above,None of the Above,,,63.0,0.32339202299676606,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,20,Aizawl South-iii,F. LALNUNMAWIA,Mizo National Front,,,7558.0,43.469258641513775,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,20,Aizawl South-iii,K.S THANGA,Indian National Congress,,,5470.0,31.46028642088917,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,20,Aizawl South-iii,RD LALRAMMAWIA,Independent,,,3175.0,18.260769540461265,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,20,Aizawl South-iii,F. LALREMSANGI,Bharatiya Janata Party,,,1046.0,6.015988957266924,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,20,Aizawl South-iii,TLANGNGAIHTHANGA,Independent,,,86.0,0.49462241904871457,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,20,Aizawl South-iii,None of the Above,None of the Above,,,52.0,0.299074020820153,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,21,Lengteng,L.THANGMAWIA,Mizo National Front,,,6430.0,45.76512455516014,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,21,Lengteng,H.ROHLUNA,Indian National Congress,,,4658.0,33.15302491103203,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,21,Lengteng,H.GINZALALA,Independent,,,2657.0,18.91103202846975,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,21,Lengteng,LALDINNGHETI,Bharatiya Janata Party,,,204.0,1.4519572953736655,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,21,Lengteng,LALHRILZELI HLAWNDO,Independent,,,77.0,0.5480427046263345,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,21,Lengteng,None of the Above,None of the Above,,,24.0,0.1708185053380783,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,22,Tuichang,TAWNLUIA,Mizo National Front,,,5146.0,39.520774134091084,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,22,Tuichang,W. CHHUANAWMA,Independent,,,4407.0,33.84532677981722,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,22,Tuichang,JAMES THANGHMINGMAWIA,Indian National Congress,,,3171.0,24.35296828200599,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,22,Tuichang,LALDUHPUII,Bharatiya Janata Party,,,174.0,1.3363028953229399,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,22,Tuichang,LALREMSANGA,Independent,,,97.0,0.7449504646340527,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,22,Tuichang,None of the Above,None of the Above,,,26.0,0.19967744412871516,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,23,Champhai North,DR ZR.THIAMSANGA,Mizo National Front,,,6057.0,41.083904225734244,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,23,Champhai North,T.T. ZOTHANSANGA,Indian National Congress,,,4964.0,33.67021637387234,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,23,Champhai North,C.LALCHHAWNTHANGA,Independent,,,2278.0,15.451400664722241,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,23,Champhai North,C.HRANGSATKIMA,Bharatiya Janata Party,,,980.0,6.647222410635556,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,23,Champhai North,B.SUANZALANG,National People's Party,,,273.0,1.851726242962762,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,23,Champhai North,TBC LALVENCHHUNGA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,161.0,1.0920436817472698,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,23,Champhai North,None of the Above,None of the Above,,,30.0,0.20348640032557824,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,24,Champhai South,T.J LALNUNTLUANGA,Mizo National Front,,,5212.0,36.445003845884905,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,24,Champhai South,LAL THANHAWLA,Indian National Congress,,,4163.0,29.10985245787008,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,24,Champhai South,C. LALREMLIANA,Independent,,,3957.0,27.669393748688904,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,24,Champhai South,RONGHAKA,Bharatiya Janata Party,,,847.0,5.922662750856584,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,24,Champhai South,TLANGNGAIHTHANGA,Independent,,,72.0,0.5034612964128382,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,24,Champhai South,None of the Above,None of the Above,,,50.0,0.3496259002866932,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,25,East tuipui,RAMTHANMAWIA,Mizo National Front,,,4384.0,37.32334411714626,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,25,East tuipui,C.LALTANPUIA,Independent,,,3797.0,32.32589817810318,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,25,East tuipui,T.SANGKUNGA,Indian National Congress,,,3421.0,29.12480844542823,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,25,East tuipui,DR.VL.ZAHAWMA CHAWNGTHU,Bharatiya Janata Party,,,100.0,0.8513536523071684,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,25,East tuipui,SIMEONA,Independent,,,23.0,0.19581134003064873,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,25,East tuipui,None of the Above,None of the Above,,,21.0,0.17878426698450536,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,26,Serchhip,LALDUHOMA,Independent,,,5481.0,35.263462651997685,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,26,Serchhip,LAL THANHAWLA,Indian National Congress,,,5071.0,32.625619249823075,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,26,Serchhip,C LALRAMZAUVA,Mizo National Front,,,4313.0,27.748825837997813,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,26,Serchhip,ZAICHHAWNA HLAWNDO,Independent,,,278.0,1.7885865019622982,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,26,Serchhip,LALCHUNGLURA,Bharatiya Janata Party,,,211.0,1.3575242874605933,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,26,Serchhip,KAPLIANA PACHUAU,National People's Party,,,119.0,0.7656179630701924,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,26,Serchhip,None of the Above,None of the Above,,,41.0,0.2637843402174612,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,26,Serchhip,VANLALRUATA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,29.0,0.1865791674708872,8,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,27,Tuikum,ER. LALRINAWMA,Mizo National Front,,,5439.0,39.85491316772917,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,27,Tuikum,SANGZELA TLAU,Indian National Congress,,,4042.0,29.618231113065143,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,27,Tuikum,P.C. VANLALRUATA,Independent,,,3810.0,27.918223785447353,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,27,Tuikum,LALNUNMAWIA CHHAKCHHUAK,Bharatiya Janata Party,,,140.0,1.0258664908038397,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,27,Tuikum,LALRUATFELI HLAWNDO,Independent,,,135.0,0.9892284018465597,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,27,Tuikum,None of the Above,None of the Above,,,59.0,0.43232944969590387,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,27,Tuikum,RC ROHMINGTHANGA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,22.0,0.16120759141203195,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,28,Hrangturzo,LALCHAMLIANA,Mizo National Front,,,4572.0,35.61857276410097,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,28,Hrangturzo,VANLALAWMPUII CHAWNGTHU,Indian National Congress,,,3815.0,29.72109691492677,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,28,Hrangturzo,LALTHANSANGA,Independent,,,3766.0,29.339358055468992,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,28,Hrangturzo,K.SANGZUALA,Bharatiya Janata Party,,,307.0,2.3917108133374883,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,28,Hrangturzo,LALAWMPUIA RENTHLEI,Independent,,,215.0,1.6749766282330945,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,28,Hrangturzo,RL LIANTLUANGA,Peoples Representation for Identity and Status of Mizoram (PRISM) Party,,,111.0,0.8647553755063883,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,28,Hrangturzo,None of the Above,None of the Above,,,50.0,0.38952944842630105,7,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,29,South tuipui,DR R LALTHANGLIANA,Mizo National Front,,,6126.0,49.69175859831278,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,29,South tuipui,JOHN SIAMKUNGA,Indian National Congress,,,4657.0,37.77579493835172,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,29,South tuipui,PHAIROTHANGA,Independent,,,1359.0,11.023685918234913,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,29,South tuipui,LALNUNPUIA,Bharatiya Janata Party,,,151.0,1.2248539909149903,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,29,South tuipui,None of the Above,None of the Above,,,35.0,0.2839065541855938,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,30,Lunglei North,VANLALTANPUIA,Mizo National Front,,,5022.0,35.26190141834012,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,30,Lunglei North,V MALSAWMTLUANGA,Independent,,,4627.0,32.48841454851846,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,30,Lunglei North,P.C. LALTHANLIANA,Indian National Congress,,,4466.0,31.357955343350653,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,30,Lunglei North,RAMDINZAUVA,Bharatiya Janata Party,,,66.0,0.4634180592613397,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,30,Lunglei North,None of the Above,None of the Above,,,61.0,0.42831063052942003,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,31,Lunglei East,LAWMAWMA TOCHHAWNG,Mizo National Front,,,4063.0,32.90677897464971,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,31,Lunglei East,LALRINPUII,Independent,,,3991.0,32.32364137037337,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,31,Lunglei East,JOSEPH LALHIMPUIA,Indian National Congress,,,3836.0,31.068275694500688,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,31,Lunglei East,H.LALRUATA,Bharatiya Janata Party,,,405.0,3.280149024054426,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,31,Lunglei East,None of the Above,None of the Above,,,52.0,0.42115493642180285,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,32,Lunglei West,C.LALRINSANGA,Mizo National Front,,,4093.0,34.43836769036601,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,32,Lunglei West,CHALROSANGA RALTE,Indian National Congress,,,4016.0,33.790492217080356,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,32,Lunglei West,LALNUNTLUANGA SAILO,Independent,,,3587.0,30.18090029448885,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,32,Lunglei West,C.S.CHAWNGCHHUMA,Bharatiya Janata Party,,,142.0,1.1947833403449726,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,32,Lunglei West,None of the Above,None of the Above,,,47.0,0.3954564577198149,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,33,Lunglei South,K PACHHUNGA,Mizo National Front,,,6245.0,43.02742179964172,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,33,Lunglei South,R LALNUNTHARA,Indian National Congress,,,3804.0,26.209177346010748,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,33,Lunglei South,REV DR K THANZAUVA,Independent,,,3492.0,24.05952873088053,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,33,Lunglei South,DR.AICHHUNGA,Bharatiya Janata Party,,,920.0,6.338707454871159,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,33,Lunglei South,None of the Above,None of the Above,,,53.0,0.3651646685958385,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,34,Thorang,ZODINTLUANGA RALTE,Indian National Congress,,,4499.0,40.115916183682565,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,34,Thorang,R.ROHMINGLIANA,Mizo National Front,,,3259.0,29.05929558626839,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,34,Thorang,JOSEPH LALZAWMLIANA,Bharatiya Janata Party,,,1629.0,14.525189478377174,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,34,Thorang,LALRINZUALA,Independent,,,1101.0,9.817209094962104,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,34,Thorang,LALHULIANA,National People's Party,,,653.0,5.822559072670531,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,34,Thorang,None of the Above,None of the Above,,,74.0,0.6598305840392331,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,35,West tuipui,NIHAR KANTI CHAKMA,Indian National Congress,,,5943.0,45.82819247378162,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,35,West tuipui,KINA RANJAN CHAKMA,Bharatiya Janata Party,,,3558.0,27.43676742751388,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,35,West tuipui,F ROBERT HMINGTHANSANGA,Mizo National Front,,,3243.0,25.007711289327574,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,35,West tuipui,None of the Above,None of the Above,,,121.0,0.933066008636644,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,35,West tuipui,B VANLALAUVA,Independent,,,103.0,0.7942628007402838,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,36,Tuichawng,BUDDHA DHAN CHAKMA,Bharatiya Janata Party,,,11419.0,43.68400918133129,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,36,Tuichawng,RASIK MOHAN CHAKMA,Mizo National Front,,,9825.0,37.586074980872226,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,36,Tuichawng,KALI KUMAR TONGCHANGYA,Indian National Congress,,,4353.0,16.652639632746748,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,36,Tuichawng,None of the Above,None of the Above,,,293.0,1.1208875286916602,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,36,Tuichawng,DOYMOY DAVENG CHAKMA,National People's Party,,,250.0,0.9563886763580719,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,37,Lawngtlai West,C. NGUNLIANCHUNGA,Indian National Congress,,,10678.0,48.876275918890464,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,37,Lawngtlai West,C. RAMHLUNA,Mizo National Front,,,9883.0,45.237332356845336,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,37,Lawngtlai West,J.B. RUALCHHINGA,Bharatiya Janata Party,,,973.0,4.453700736943287,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,37,Lawngtlai West,VANLALTHAA,Independent,,,177.0,0.8101798873987275,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,37,Lawngtlai West,None of the Above,None of the Above,,,136.0,0.6225110999221861,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,38,Lawngtlai East,H. BIAKZAUA,Mizo National Front,,,8656.0,48.39809896561364,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,38,Lawngtlai East,H. ZOTHANGLIANA,Indian National Congress,,,7712.0,43.119932904668715,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,38,Lawngtlai East,VANUPA ZATHANG,Bharatiya Janata Party,,,1086.0,6.072127481129438,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,38,Lawngtlai East,MC. LALRAMCHHANA,Independent,,,209.0,1.1685770198490355,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,38,Lawngtlai East,C. BIAKCHHUNGA,Independent,,,164.0,0.9169695275370422,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,38,Lawngtlai East,None of the Above,None of the Above,,,58.0,0.3242941012021247,6,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,39,Siaha,DR. K. BEICHHUA,Mizo National Front,,,8109.0,49.818762671253914,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,39,Siaha,S. HIATO,Indian National Congress,,,5641.0,34.6562634392087,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,39,Siaha,S. VADYU,Bharatiya Janata Party,,,2315.0,14.222522577870615,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,39,Siaha,F. THANGCHHUAHA,Independent,,,171.0,1.050562142901026,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,39,Siaha,None of the Above,None of the Above,,,41.0,0.2518891687657431,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,40,Palak,K.T. ROKHAW,Indian National Congress,,,5492.0,37.43694614860259,1,True,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,40,Palak,M. CHAKHU,Mizo National Front,,,4648.0,31.683708248125427,2,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,40,Palak,HIPHEI,Bharatiya Janata Party,,,4431.0,30.20449897750511,3,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,40,Palak,S. SATHLU,Independent,,,59.0,0.4021813224267212,4,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2018,2018,12.0,Dec,Mizoram,40,Palak,None of the Above,None of the Above,,,40.0,0.27266530334015,5,False,local_state_rdata,mprajcgmzts2018.RData,mprajcgmzts2018.RData,,
+mizoram_2021,2021,,,Mizoram,4,TUIRIAL,K.LALDAWNGLIANA,MNF,,,5820.0,39.89,1,True,tcpd_candidate_data,TCPD_AE_All_States_2023-5-9.csv,TCPD_AE_All_States_2023-5-9.csv,,
+mizoram_2021,2021,,,Mizoram,4,TUIRIAL,LALTLANMAWIA,Zoram People’s Movement,,,4536.0,31.09,2,False,tcpd_candidate_data,TCPD_AE_All_States_2023-5-9.csv,TCPD_AE_All_States_2023-5-9.csv,,
+mizoram_2021,2021,,,Mizoram,4,TUIRIAL,CHALROSANGA RALTE,INC,,,3927.0,26.92,3,False,tcpd_candidate_data,TCPD_AE_All_States_2023-5-9.csv,TCPD_AE_All_States_2023-5-9.csv,,
+mizoram_2021,2021,,,Mizoram,4,TUIRIAL,K.LALDINTHARA,BJP,,,246.0,1.69,4,False,tcpd_candidate_data,TCPD_AE_All_States_2023-5-9.csv,TCPD_AE_All_States_2023-5-9.csv,,
+mizoram_2021,2021,,,Mizoram,26,SERCHHIP,LALDUHOMA,Zoram People’s Movement,,,8269.0,49.95,1,True,tcpd_candidate_data,TCPD_AE_All_States_2023-5-9.csv,TCPD_AE_All_States_2023-5-9.csv,,
+mizoram_2021,2021,,,Mizoram,26,SERCHHIP,VANLALZAWMA,MNF,,,5319.0,32.13,2,False,tcpd_candidate_data,TCPD_AE_All_States_2023-5-9.csv,TCPD_AE_All_States_2023-5-9.csv,,
+mizoram_2021,2021,,,Mizoram,26,SERCHHIP,P.C. LALTLANSANGA,INC,,,2604.0,15.73,3,False,tcpd_candidate_data,TCPD_AE_All_States_2023-5-9.csv,TCPD_AE_All_States_2023-5-9.csv,,
+mizoram_2021,2021,,,Mizoram,26,SERCHHIP,LALHRIATRENGA CHHANGTE,BJP,,,250.0,1.51,4,False,tcpd_candidate_data,TCPD_AE_All_States_2023-5-9.csv,TCPD_AE_All_States_2023-5-9.csv,,
+mizoram_2021,2021,,,Mizoram,26,SERCHHIP,RAMHLUN-EDENA,IND,,,43.0,0.26,5,False,tcpd_candidate_data,TCPD_AE_All_States_2023-5-9.csv,TCPD_AE_All_States_2023-5-9.csv,,
+mizoram_2021,2021,,,Mizoram,26,SERCHHIP,VANLALRUATA,Mizoram People's Conference,,,38.0,0.23,6,False,tcpd_candidate_data,TCPD_AE_All_States_2023-5-9.csv,TCPD_AE_All_States_2023-5-9.csv,,
+mizoram_2023,2023,12.0,Dec,Mizoram,1,Hachhek (ST),Robert Romawia MALE Royte,Star,79.0,5705.0,32.42,32.42,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,1,Hachhek (ST),- Hachhek (ST),,,21160.0,,,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,1,Hachhek (ST),K J Lalbiakngheta MALE,Hat,107.0,5399.0,30.68,30.68,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,1,Hachhek (ST),Lalrindika Ralte MALE,Hand,46.0,5105.0,29.01,29.01,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,1,Hachhek (ST),Malsawmtluanga MALE,Lotus,2.0,1259.0,7.15,7.15,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,1,Hachhek (ST),Nota,NOTA,0.0,130.0,0.74,0.74,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,2,Dampa (ST),Lalrintluanga Sailo MALE,Star,68.0,6218.0,35.65,35.65,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,2,Dampa (ST),Vanlalsailova MALE,Hat,107.0,5926.0,33.97,33.97,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,2,Dampa (ST),- Dampa (ST),,,20090.0,,,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,2,Dampa (ST),Lalhmingthanga MALE,Hand,39.0,3146.0,18.04,18.04,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,2,Dampa (ST),Vanlalhmuaka MALE,Lotus,10.0,2060.0,11.81,11.81,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,2,Dampa (ST),Lalramdingngheti FEMALE,Ring,0.0,51.0,0.29,0.29,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,2,Dampa (ST),Nota,NOTA,2.0,42.0,0.24,0.24,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,3,Mamit (ST),H. Lalzirliana MALE,Star,129.0,7167.0,34.9,34.903490349034904,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,3,Mamit (ST),K. Lalthanzama MALE,Hand,70.0,5375.0,26.17,26.172617261726174,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,3,Mamit (ST),H. Zorempuia MALE,Hat,187.0,5359.0,26.09,26.092609260926093,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,3,Mamit (ST),- Mamit (ST),,,23932.0,,,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,3,Mamit (ST),Lalrinliana Sailo MALE,Lotus,21.0,2454.0,11.95,11.951195119511953,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,3,Mamit (ST),Nota,NOTA,1.0,95.0,0.46,0.4600460046004601,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,3,Mamit (ST),Lalramdingngheti FEMALE,Ring,2.0,87.0,0.42,0.42004200420042004,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,4,Tuirial (ST),K. Laldawngliana MALE,Star,133.0,6610.0,41.69,41.69,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,4,Tuirial (ST),Laltlanmawia MALE,Hat,195.0,6597.0,41.61,41.61,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,4,Tuirial (ST),Henry Zodinliana MALE Pachuau,Hand,31.0,2503.0,15.79,15.79,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,4,Tuirial (ST),F. MALE Vanhmingthanga,Lotus,3.0,73.0,0.46,0.46,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,4,Tuirial (ST),- Tuirial (ST),,,18498.0,,,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,4,Tuirial (ST),Nota,NOTA,0.0,72.0,0.45,0.45,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,5,Kolasib (ST),Lalfamkima MALE,Hat,256.0,8657.0,43.96,44.59774779344628,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,5,Kolasib (ST),K.lalrinliana MALE,Star,204.0,7488.0,38.02,38.57157350106524,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,5,Kolasib (ST),S.lalrinawma MALE,Hand,56.0,3268.0,16.59,16.830678705488484,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,5,Kolasib (ST),- Kolasib (ST),,,24096.0,,,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,6,Serlui (ST),R.lalthangliana MALE,Lotus,11.0,168.0,0.85,59.85915492957747,4,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,6,Serlui (ST),Nota,NOTA,5.0,112.0,0.57,40.14084507042253,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,7,Tuivawl (ST),Lalrinsanga Ralte MALE,Star,114.0,7242.0,39.74,39.736026397360256,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,7,Tuivawl (ST),Lalhmachhuana MALE,Hand,72.0,6336.0,34.77,34.766523347665235,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,7,Tuivawl (ST),C Lalthanfela MALE,Hat,50.0,4375.0,24.01,24.007599240075987,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,7,Tuivawl (ST),Robinson Malsawmtluanga MALE Hmar,Lotus,3.0,157.0,0.86,0.8599140085991399,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,7,Tuivawl (ST),Vl Nghaka MALE,Ring,1.0,62.0,0.34,0.33996600339966,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,7,Tuivawl (ST),Nota,NOTA,1.0,52.0,0.29,0.28997100289970995,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,7,Tuivawl (ST),- Serlui (ST),,,21265.0,,,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,8,Chalfilh (ST),Lalchhandama MALE Ralte,Star,80.0,6501.0,44.18,44.17558244175583,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,8,Chalfilh (ST),Jms Dawngliana MALE,Hat,74.0,4482.0,30.46,30.456954304569546,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,8,Chalfilh (ST),R. L. Pianmawia MALE,Hand,41.0,3590.0,24.4,24.397560243975605,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,8,Chalfilh (ST),K Changliana MALE,Lotus,3.0,82.0,0.56,0.5599440055994401,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,8,Chalfilh (ST),Nota,NOTA,0.0,61.0,0.41,0.4099590040995901,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,8,Chalfilh (ST),- Tuivawl (ST),,,17997.0,,,7,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,9,Tawi (ST),Lalbiakzama MALE,Hat,144.0,6637.0,43.26,43.26432643264327,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,9,Tawi (ST),K. Lalhmangaiha MALE,Star,62.0,4804.0,31.31,31.31313131313132,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,9,Tawi (ST),Vanneihthanga MALE,Hand,48.0,3731.0,24.32,24.322432243224327,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,9,Tawi (ST),Dr. Zonuntluanga MALE,Lotus,2.0,97.0,0.63,0.6300630063006302,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,9,Tawi (ST),Nota,NOTA,0.0,72.0,0.47,0.4700470047004701,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,9,Tawi (ST),- Chalfilh (ST),,,20133.0,,,8,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,10,Aizawl North-I (ST),Prof. Lalnilawma MALE,Hat,246.0,6991.0,47.45,47.45474547454745,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,10,Aizawl North-I (ST),Lalrinenga Sailo MALE,Star,141.0,5439.0,36.91,36.913691369136906,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,10,Aizawl North-I (ST),Lalringliana MALE Khiangte,Hand,58.0,2240.0,15.2,15.2015201520152,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,10,Aizawl North-I (ST),Nota,NOTA,1.0,64.0,0.43,0.43004300430043,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,10,Aizawl North-I (ST),- Tawi ( ST),,,17300.0,,,9,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,11,Aizawl North-II (ST),Vanlalhlana MALE,Hat,342.0,10772.0,51.27,47.144827586206894,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,11,Aizawl North-II (ST),R.lalzirliana MALE,Star,130.0,5287.0,25.16,23.135632183908047,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,11,Aizawl North-II (ST),Lalnunmawia MALE Chuaungo,Hand,118.0,4423.0,21.05,19.35632183908046,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,11,Aizawl North-II (ST),Lalruatfeli FEMALE Hlawndo,Ring,24.0,477.0,2.27,2.0873563218390805,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,11,Aizawl North-II (ST),Nota,NOTA,2.0,52.0,,,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,11,Aizawl North-II (ST),- Aizawl North-I (ST),,,,9.0,8.275862068965518,10,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,12,Aizawl North-III (ST),Dr. Vanlalthlana MALE,Hat,390.0,11040.0,55.94,44.752,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,12,Aizawl North-III (ST),Vanlalsawma MALE,Star,130.0,4533.0,22.97,18.376,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,12,Aizawl North-III (ST),R. Lalrinmawia MALE,Hand,114.0,4028.0,20.41,16.328,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,12,Aizawl North-III (ST),Lalrinpuii FEMALE,Ring,5.0,95.0,0.48,0.384,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,12,Aizawl North-III (ST),Nota,NOTA,0.0,39.0,0.2,0.16,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,12,Aizawl North-III (ST),- Aizawl North-II (ST),,,,25.0,20.0,11,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,13,Aizawl East-I,K. Sapdanga MALE,Hat,211.0,6783.0,42.1,24.959981028042925,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,13,Aizawl East-I,C. Lalmuanpuia MALE,Star,143.0,4913.0,30.5,18.082646588012096,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,13,Aizawl East-I,Lal Thanzara MALE,Hand,113.0,4032.0,25.03,14.839627675342385,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,13,Aizawl East-I,Andrew MALE Lalremkima Pachuau,Broom,15.0,217.0,1.35,0.800379439141519,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,13,Aizawl East-I,Vanlalvena MALE 6 MALE Chawnghmingthanga,Ring,0.0,67.0,0.42,0.24900693662180592,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,13,Aizawl East-I,Nota,NOTA,1.0,43.0,0.27,0.1600758878283038,7,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,13,Aizawl East-I,- Aizawl North-III (ST),,,,69.0,40.90828244501097,12,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,14,Aizawl East-II (ST),Lalthansanga MALE,Hat,237.0,10727.0,47.88,47.88,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,14,Aizawl East-II (ST),Zoramthanga MALE,Star,154.0,8626.0,38.5,38.5,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,14,Aizawl East-II (ST),Lalsanglura Ralte MALE,Hand,37.0,2520.0,11.25,11.25,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,14,Aizawl East-II (ST),Lalruatfeli FEMALE Hlawndo,Ring,7.0,441.0,1.97,1.97,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,14,Aizawl East-II (ST),Nota,NOTA,5.0,90.0,0.4,0.4,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,14,Aizawl East-II (ST),- Aizawl East-I,,,29044.0,,,13,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,15,Aizawl West-I (ST),B. Lalchhanzova MALE,Hat,365.0,7289.0,48.41,45.66981132075472,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,15,Aizawl West-I (ST),B. Lalawmpuii FEMALE,Star,217.0,4533.0,30.11,28.40566037735849,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,15,Aizawl West-I (ST),P.c MALE Lalhmingthanga,Hand,97.0,2923.0,19.41,18.31132075471698,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,15,Aizawl West-I (ST),Lalhmachhuani FEMALE,Trumpet,4.0,216.0,1.43,1.349056603773585,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,15,Aizawl West-I (ST),Nota,NOTA,0.0,54.0,0.36,0.33962264150943394,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,15,Aizawl West-I (ST),Rothuama MALE,Ring,3.0,42.0,0.28,0.26415094339622647,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,15,Aizawl West-I (ST),- Aizawl East-II (ST),,,,6.0,5.660377358490566,14,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,16,Aizawl West-II (ST),Tbc MALE Lalvenchhunga,Hat,319.0,11872.0,49.68,48.99408284023669,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,16,Aizawl West-II (ST),Zothantluanga MALE,Star,173.0,7205.0,30.15,29.73372781065089,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,16,Aizawl West-II (ST),R. Lalbiakthanga MALE,Hand,88.0,4546.0,19.02,18.757396449704142,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,16,Aizawl West-II (ST),Vanlalvena MALE,Ring,4.0,132.0,0.55,0.542406311637081,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,16,Aizawl West-II (ST),- Aizawl West-I (ST),,,2993.0,2.0,1.9723865877712032,15,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,17,Aizawl West-III (ST),Vanlalmawia MALE Vanchhawng,Broom,1.0,75.0,0.31,52.542372881355924,5,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,17,Aizawl West-III (ST),Nota,NOTA,4.0,68.0,0.28,47.45762711864407,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,18,Aizawl South-I (ST),Lalnghinglova MALE Hmar,Hat,352.0,10770.0,58.49,58.489999999999995,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,18,Aizawl South-I (ST),Lalruatkima MALE,Star,215.0,5917.0,32.13,32.13,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,18,Aizawl South-I (ST),Dr. Ngurdingliana MALE,Hand,50.0,1587.0,8.62,8.619999999999997,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,18,Aizawl South-I (ST),K. Laldingliana MALE,Ring,1.0,103.0,0.56,0.5599999999999999,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,18,Aizawl South-I (ST),Nota,NOTA,2.0,37.0,0.2,0.19999999999999998,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,18,Aizawl South-I (ST),- Aizawl West-II (ST),,,,0.0,0.0,16,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,19,Aizawl South-II (ST),V. L. Zaithanzama MALE,Hat,330.0,9202.0,49.46,27.94508164303068,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,19,Aizawl South-II (ST),K. Lalsawmvela MALE,Star,135.0,4620.0,24.83,14.029041188767726,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,19,Aizawl South-II (ST),Lalsawta MALE,Hand,168.0,4369.0,23.48,13.2662862308605,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,19,Aizawl South-II (ST),Joseph MALE Biakthianghlima,Broom,7.0,220.0,1.18,0.6667043335781683,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,19,Aizawl South-II (ST),Lalhrilzeli FEMALE Hlawndo,Ring,7.0,151.0,0.81,0.4576529747443358,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,19,Aizawl South-II (ST),Nota,NOTA,2.0,43.0,0.23,0.12995084468049042,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,19,Aizawl South-II (ST),- Aizawl West-III (ST),,,,77.0,43.50528278433809,17,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,20,Aizawl South-III (ST),C. Lalsawivunga MALE,Hat,320.0,9124.0,50.07,30.162650602409638,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,20,Aizawl South-III (ST),K. Vanlalvena MALE,Star,170.0,5499.0,30.18,18.180722891566266,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,20,Aizawl South-III (ST),Vanlalawmpuii FEMALE Chawngthu,Hand,102.0,3124.0,17.14,10.325301204819278,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,20,Aizawl South-III (ST),F.lalremsangi FEMALE,Lotus,7.0,234.0,1.28,0.7710843373493976,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,20,Aizawl South-III (ST),Lalngaihawma MALE Pachuau,Broom,2.0,103.0,0.57,0.34337349397590355,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,20,Aizawl South-III (ST),Zosangliana MALE,Ring,2.0,84.0,0.46,0.27710843373493976,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,20,Aizawl South-III (ST),Nota,NOTA,1.0,54.0,0.3,0.18072289156626506,7,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,20,Aizawl South-III (ST),- Aizawl South-I (ST),,,,66.0,39.75903614457831,18,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,21,Lengteng (ST),Lalchhuanthanga MALE,Hat,390.0,9117.0,41.2,30.977443609022558,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,21,Lengteng (ST),Dr. Lalmalsawma MALE Nghaka,Hand,262.0,7478.0,33.79,25.406015037593985,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,21,Lengteng (ST),Denghmingthanga MALE,Star,164.0,5352.0,24.19,18.18796992481203,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,21,Lengteng (ST),H. Biaklawma MALE,Ring,4.0,131.0,0.59,0.44360902255639095,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,21,Lengteng (ST),Nota,NOTA,1.0,51.0,0.23,0.17293233082706766,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,21,Lengteng (ST),- Aizawl South-II (ST),,,,33.0,24.81203007518797,19,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,22,Tuichang (ST),Baryl Vanneihsangi FEMALE,Hat,186.0,9370.0,47.67,60.5948900470319,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,22,Tuichang (ST),- Aizawl South-III (ST),,,,31.0,39.4051099529681,20,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,23,Champhai North (ST),F. Lalnunmawia MALE,Star,148.0,7956.0,40.48,77.35524555704184,2,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,23,Champhai North (ST),Rosiamngheta MALE,Hand,33.0,2066.0,10.51,20.08408178864896,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,23,Champhai North (ST),Rev. Dr. Zaichhawna MALE Hlawndo,Ring,3.0,208.0,1.06,2.025606726543092,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,23,Champhai North (ST),Nota,NOTA,1.0,56.0,0.28,0.5350659277660998,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,24,Champhai South (ST),F.rodingliana MALE,Hat,115.0,6171.0,41.48,41.48414841484149,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,24,Champhai South (ST),Dr. L. Thangmawia MALE,Star,104.0,6124.0,41.16,41.164116411641174,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,24,Champhai South (ST),Lalhmingthanga MALE Pachuau,Hand,40.0,2442.0,16.41,16.411641164116414,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,24,Champhai South (ST),Nota,NOTA,1.0,86.0,0.58,0.5800580058005801,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,24,Champhai South (ST),B.suanzalang MALE,Lotus,3.0,54.0,0.36,0.3600360036003601,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,24,Champhai South (ST),- Lengteng (ST),,,18767.0,,,21,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,25,East Tuipui (ST),W Chhuanawma MALE,Hat,215.0,6988.0,47.03,47.03,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,25,East Tuipui (ST),Tawnluia MALE,Star,177.0,6079.0,40.91,40.91,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,25,East Tuipui (ST),C. Lalhriatpuia MALE,Hand,37.0,1674.0,11.27,11.27,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,25,East Tuipui (ST),Lalhmunsiami FEMALE,Ring,1.0,67.0,0.45,0.45,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,25,East Tuipui (ST),Nota,NOTA,2.0,50.0,0.34,0.34,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,25,East Tuipui (ST),- Tuichang (ST),,,17605.0,,,22,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,26,Serchhip (ST),H. Ginzalala MALE,Hat,195.0,7134.0,43.63,13.633948939095657,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,26,Serchhip (ST),Dr. Zr Thiamsanga MALE,Star,144.0,6424.0,39.28,12.274616418236933,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,26,Serchhip (ST),K. Lalnunmawia MALE,Hand,52.0,2477.0,15.15,4.73422705540452,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,26,Serchhip (ST),P.s Zatluanga MALE,Lotus,2.0,243.0,1.49,0.4656104496734478,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,26,Serchhip (ST),Nota,NOTA,2.0,75.0,0.46,0.1437455079528765,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,26,Serchhip (ST),- Champhai North (ST),,,,220.0,68.74785162963659,23,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,27,Tuikum (ST),Lt Col. Clement MALE Lalhmingthanga,Hat,148.0,7323.0,42.16,6.681458003169573,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,27,Tuikum (ST),T.j Lalnuntluanga MALE,Star,139.0,6994.0,40.27,6.3819334389857385,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,27,Tuikum (ST),Dr. Lallianchhunga MALE,Hand,43.0,2956.0,17.02,2.6973058637084,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,27,Tuikum (ST),Nota,NOTA,2.0,96.0,0.55,0.08716323296354994,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,27,Tuikum (ST),- Champhai South (ST),,,,531.0,84.15213946117275,24,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,28,Hrangturzo (ST),Ramthanmawia MALE,Star,77.0,6075.0,47.11,47.11000000000001,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,28,Hrangturzo (ST),Dr.c.lalrammawia MALE,Hat,81.0,5915.0,45.87,45.870000000000005,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,28,Hrangturzo (ST),C.lalnunthanga MALE,Hand,11.0,869.0,6.74,6.740000000000001,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,28,Hrangturzo (ST),Nota,NOTA,0.0,36.0,0.28,0.2800000000000001,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,28,Hrangturzo (ST),- East Tuipui (ST),,,15910.0,,,25,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,29,South Tuipui (ST),Lalduhoma MALE,Hat,376.0,8314.0,45.86,45.915098117741294,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,29,South Tuipui (ST),J. Malsawmzuala MALE Vanchhawng,Star,179.0,5332.0,29.41,29.44533440128154,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,29,South Tuipui (ST),R Vanlaltluanga MALE,Hand,102.0,4241.0,23.39,23.41810172206648,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,29,South Tuipui (ST),K Vanlalruati FEMALE,Lotus,17.0,97.0,0.54,0.5406487785342411,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,29,South Tuipui (ST),Lalawmpuia MALE Renthlei,Walking,3.0,69.0,0.38,0.38045654785742894,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,29,South Tuipui (ST),Nota,NOTA,3.0,54.0,0.3,0.30036043251902284,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,29,South Tuipui (ST),Ramhlun-edena MALE,handle,,,,,7,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,29,South Tuipui (ST),- Serchhip (ST),,,20844.0,,,26,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,30,Lunglei North (ST),P.c. Vanlalruata MALE,Hat,116.0,7136.0,47.58,47.584758475847586,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,30,Lunglei North (ST),Er. Lalrinawma MALE,Star,73.0,4975.0,33.17,33.17331733173317,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,30,Lunglei North (ST),T.t. Zothansanga MALE,Hand,20.0,2679.0,17.86,17.861786178617862,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,30,Lunglei North (ST),C. Lalrinmawii FEMALE,Table,3.0,165.0,1.1,1.1001100110011004,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,30,Lunglei North (ST),Nota,NOTA,1.0,42.0,0.28,0.28002800280028006,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,30,Lunglei North (ST),- Tuikum (ST),,,17055.0,,,27,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,31,Lunglei East (ST),Lalmuanpuia Punte MALE,Hat,93.0,6280.0,44.92,44.92,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,31,Lunglei East (ST),Lalremruata MALE Chhangte,Star,72.0,5025.0,35.94,35.94,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,31,Lunglei East (ST),Lalroenga MALE,Hand,29.0,2340.0,16.74,16.74,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,31,Lunglei East (ST),Dr. Zaichhawna MALE Hlawndo,Ring,3.0,211.0,1.51,1.51,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,31,Lunglei East (ST),Lalmalsawma MALE,Lotus,5.0,88.0,0.63,0.63,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,31,Lunglei East (ST),Nota,NOTA,1.0,37.0,0.26,0.26,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,31,Lunglei East (ST),- Hrangturzo (ST),,,16780.0,,,28,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,32,Lunglei West (ST),Jeje Lalpekhlua MALE,Hat,53.0,5468.0,39.57,36.638888888888886,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,32,Lunglei West (ST),Dr. R. MALE Lalthangliana,Star,54.0,5333.0,38.59,35.73148148148149,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,32,Lunglei West (ST),C. Laldintluanga MALE,Hand,21.0,2958.0,21.41,19.824074074074073,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,32,Lunglei West (ST),Nota,NOTA,0.0,59.0,0.43,0.39814814814814814,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,32,Lunglei West (ST),- South Tuipui (ST),,,1634.0,8.0,7.407407407407407,29,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,33,Lunglei South (ST),V. MALE Malsawmtluanga,Hat,187.0,7369.0,48.02,44.882699317693245,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,33,Lunglei South (ST),Dr. Vanlaltanpuia MALE,Star,165.0,5394.0,35.15,32.85353771380503,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,33,Lunglei South (ST),Eric R Zomuanpuia MALE,Hand,52.0,2396.0,15.61,14.590148612019815,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,33,Lunglei South (ST),K. Lalrimawia MALE,Ring,5.0,130.0,0.85,0.7944667725955697,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,33,Lunglei South (ST),Nota,NOTA,3.0,56.0,0.36,0.336480044864006,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,33,Lunglei South (ST),- Lunglei North (ST),,,,7.0,6.5426675390223386,30,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,34,Thorang (ST),Lalrinpuii FEMALE,Hat,196.0,5641.0,41.53,38.81308411214954,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,34,Thorang (ST),Joseph Lalhimpuia MALE,Hand,136.0,3995.0,29.41,27.48598130841122,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,34,Thorang (ST),Lawmawma MALE Tochhawng,Star,90.0,3818.0,28.11,26.271028037383182,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,34,Thorang (ST),Lalzuimawia MALE,Ring,2.0,82.0,0.6,0.5607476635514019,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,34,Thorang (ST),Nota,NOTA,1.0,48.0,0.35,0.3271028037383178,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,34,Thorang (ST),- Lunglei East (ST),,,1632.0,7.0,6.542056074766356,31,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,35,West Tuipui (ST),T. Lalhlimpuia MALE,Hat,206.0,5029.0,38.6,36.415094339622634,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,35,West Tuipui (ST),C. Lalrinsanga MALE,Star,144.0,3747.0,28.76,27.13207547169811,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,35,West Tuipui (ST),Pc Lalthanliana MALE,Hand,80.0,2696.0,20.69,19.518867924528298,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,35,West Tuipui (ST),Lalnuntluanga MALE Sailo,Battery,29.0,959.0,7.36,6.943396226415094,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,35,West Tuipui (ST),Pc.mosia MALE,Bucket,18.0,450.0,3.45,3.254716981132075,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,35,West Tuipui (ST),R. Lalbiaktluangi FEMALE,Lotus,2.0,108.0,0.83,0.7830188679245282,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,35,West Tuipui (ST),Nota,NOTA,2.0,41.0,0.31,0.2924528301886792,7,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,35,West Tuipui (ST),- Lunglei West (ST),,,1568.0,6.0,5.660377358490566,32,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,36,Tuichawng (ST),Lalramliana Papuia MALE,Hat,312.0,6531.0,40.81,40.809999999999995,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,36,Tuichawng (ST),Dr K. Pachhunga MALE,Star,174.0,5305.0,33.15,33.15,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,36,Tuichawng (ST),Meriam L FEMALE Hrangchal,Hand,89.0,3899.0,24.36,24.359999999999996,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,36,Tuichawng (ST),Zd Dengngura MALE,Ring,6.0,114.0,0.71,0.7099999999999999,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,36,Tuichawng (ST),T. Biaksailova MALE,Lotus,9.0,87.0,0.54,0.5399999999999999,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,36,Tuichawng (ST),Nota,NOTA,2.0,69.0,0.43,0.42999999999999994,6,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,36,Tuichawng (ST),- Lunglei South (ST),,,,0.0,0.0,33,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,37,Lawngtlai West (ST),R. Rohmingliana MALE,Star,27.0,4141.0,31.24,31.23687631236876,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,37,Lawngtlai West (ST),Zodintluanga Ralte MALE,Hand,23.0,4079.0,30.77,30.76692330766923,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,37,Lawngtlai West (ST),C. Lalnunnema MALE,Hat,37.0,3146.0,23.73,23.72762723727627,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,37,Lawngtlai West (ST),Shanti Bikash MALE Chakma,Lotus,7.0,1772.0,13.37,13.368663133686631,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,37,Lawngtlai West (ST),Nota,NOTA,2.0,119.0,0.9,0.8999100089991,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,37,Lawngtlai West (ST),- Thorang (ST),,,14955.0,,,34,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,38,Lawngtlai East (ST),Prova Chakma FEMALE,Star,82.0,7167.0,48.62,47.448033570801215,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,38,Lawngtlai East (ST),Nihar Kanti MALE Chakma,Hand,63.0,6456.0,43.8,42.744217819849716,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,38,Lawngtlai East (ST),Kawlhnuna MALE,Hat,25.0,789.0,5.35,5.22104030447936,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,38,Lawngtlai East (ST),T. Lalengthanga MALE,Lotus,5.0,250.0,1.7,1.6590221528252174,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,38,Lawngtlai East (ST),- West Tuipui (ST),,,1679.0,3.0,2.9276861520445014,35,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,39,Saiha (ST),Nota,NOTA,1.0,78.0,0.53,100.0,5,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,40,Palak (ST),Rasik Mohan MALE Chakma,Star,152.0,13346.0,44.55,44.55,1,True,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,40,Palak (ST),Durjya Dhan MALE Chakma,Lotus,144.0,12695.0,42.38,42.38,2,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,40,Palak (ST),Hara Prasad MALE Chakma,Hand,38.0,3232.0,10.79,10.79,3,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,40,Palak (ST),Shanti Jiban MALE Chakma,Hat,7.0,423.0,1.41,1.41,4,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,40,Palak (ST),Nota,NOTA,3.0,260.0,0.87,0.87,5,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber
+mizoram_2023,2023,12.0,Dec,Mizoram,40,Palak (ST),- Tuichawng (ST),,,36191.0,,,36,False,official_eci_pdf,mizoram2023.pdf,mizoram2023.pdf,/tmp/mizoram2023.pdf,pdfplumber

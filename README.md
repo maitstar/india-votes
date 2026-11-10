@@ -71,3 +71,9 @@ The combined application is distributed under [GPL-3.0](LICENSE). Upstream datas
 [Download the imported results and mappings](data/imports/kerala/) · [Import methodology and discrepancies](docs/KERALA_IMPORT.md)
 
 A pinned upstream import now provides 4,433 result rows across Kerala’s 2011, 2016, 2021 and 2026 Assembly elections, plus Assembly–Lok Sabha mapping tables. All 140 seats are represented per election. Ten older winner-vote discrepancies against the application atlas are recorded for review; the import does not overwrite displayed results. The pre-2008 mapping is quarantined pending review.
+
+## Nationwide source import — 10 November 2026
+
+[Download the national/state import](data/imports/india/) · [Coverage, quality findings and reproduction](docs/INDIA_IMPORT.md)
+
+The repository now includes the complete available upstream assembly bundle (161,760 rows; 119 source election IDs; 31 state/UT labels), 20 separate recent assembly files, national 2024 source results, a clearly labelled export of retained national 2019 results, and nationwide era-specific seat mappings. Source families overlap and contain unresolved records; they are retained separately from the live atlas. This is not a complete historical archive of every Indian election.

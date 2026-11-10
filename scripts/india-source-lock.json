@@ -1,0 +1,121 @@
+{
+  "retrievedDate": "2026-11-10",
+  "sources": {
+    "assembly.parquet": {
+      "url": "https://raw.githubusercontent.com/skthewimp/elections/1fe9a2e00d3ca451e95be46e753d71af0ede78fe/assembly/data/assembly_candidate_results_since_2009.parquet",
+      "sha256": "646734f553c5662a185dd14ba6f54a33d99e6608fd89e8e66a434649489d5e9b"
+    },
+    "ac_pc_post2008.csv": {
+      "url": "https://raw.githubusercontent.com/skthewimp/india-constituency-maps/efceae39d3922f04fc5ea91106b7b316bf8ddf8f/mappings/ac_pc_post2008.csv",
+      "sha256": "c2197e521eb1192d6912a5cf10788043ccc324f7b2dd6386e5525287e7da0f3f"
+    },
+    "ac_pc_pre2008.csv": {
+      "url": "https://raw.githubusercontent.com/skthewimp/india-constituency-maps/efceae39d3922f04fc5ea91106b7b316bf8ddf8f/mappings/ac_pc_pre2008.csv",
+      "sha256": "815b142f461a45a0b04ac974ccfc1604f65fb18286e939ca6f1e9f91e6f167b1"
+    },
+    "2022Assembly-GA.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2022Assembly-GA.csv",
+      "sha256": "8188e27691f2c56d530d5d6c2b2a9269022cc87f46297f8c96ee50db0d4db915",
+      "gitBlobSHA": "04acd49eb9c5982dd46baca2926f7fd44f083e3e"
+    },
+    "2022Assembly-MN.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2022Assembly-MN.csv",
+      "sha256": "8d68d31ec424c3333fd2faf3978c93174cda462965dab420eafee5ffd14cfbb0",
+      "gitBlobSHA": "7a583d12d9bb685cdd2ef3f8f919cff359006e30"
+    },
+    "2022Assembly-PB.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2022Assembly-PB.csv",
+      "sha256": "743112011072aa280968d9ceb8daa43092a6aede4be33ce60322b370b25e30f4",
+      "gitBlobSHA": "3c439003ada2ae75214ce4d05d9b1a24adf02f71"
+    },
+    "2022Assembly-UK.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2022Assembly-UK.csv",
+      "sha256": "c6c63db04485e488f546baca180e0a6bec6fe39b6018a91f6865ac321c5a1961",
+      "gitBlobSHA": "aaebe6c7d6139fcfc315dcbf7dfc87f939f80641"
+    },
+    "2022Assembly-UP.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2022Assembly-UP.csv",
+      "sha256": "b2e370c0fe8f58a4c46a9e929d166e9fcedd0e7654848a353710de97e588253b",
+      "gitBlobSHA": "bba2488d0f17d7f6c163ea58a5dd3415f223989f"
+    },
+    "2023Assembly-KA.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2023Assembly-KA.csv",
+      "sha256": "90d984a59fbfe5e60d770543e1fe619709b37677826be8e49d7f743021c9f925",
+      "gitBlobSHA": "1355ad1db1294b1b94d1c0524c43322ebe69ae63"
+    },
+    "2023Assembly-ML.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2023Assembly-ML.csv",
+      "sha256": "269ce89761a484433fea68ea968868857ad595c160d75ba4769cfd9e496da97d",
+      "gitBlobSHA": "0b94e5ff617e48e82b360c0b8174ed16bc89ca1b"
+    },
+    "2023Assembly-NL.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2023Assembly-NL.csv",
+      "sha256": "4e790be916b8cf0c173c6d4dc1d9be1ecdbaad9f306a022c4d7119c6817fcafc",
+      "gitBlobSHA": "20659ea926b7169ba635dd1e04245f1a0679334f"
+    },
+    "2023Assembly-TR.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2023Assembly-TR.csv",
+      "sha256": "62dae2bccedb173c52045943c86459da332308b489a9bf580f1e02cdfa00d9e1",
+      "gitBlobSHA": "6ab37e2642c475bc3f942a818cffb8965e8b2c11"
+    },
+    "2024Assembly-HR.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2024Assembly-HR.csv",
+      "sha256": "c90b3873d959f3c570e43dde91405e6c58517629b5f8ff5f3fbea5fda5b968b6",
+      "gitBlobSHA": "0efbb544aeee28d4436f274e649ae1ec9126254c"
+    },
+    "2024Assembly-JH.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2024Assembly-JH.csv",
+      "sha256": "380e8c06592a89015846e862b596ecbae1ba2adb213d621230a7fd10b4d8ea20",
+      "gitBlobSHA": "3ce549ff07fb98b352c12461f50562f045c648b3"
+    },
+    "2024Assembly-JK.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2024Assembly-JK.csv",
+      "sha256": "4ac9d0c5c79b74c3ccfe6e3bde828074f9918c20bbbdbdc5f70f9fa0f210d1c0",
+      "gitBlobSHA": "a9ce8e492a693c9f15915a2e2b0803921f5efb0a"
+    },
+    "2024Assembly-MH.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2024Assembly-MH.csv",
+      "sha256": "16aaaf99540945d460b49914d43109b519643574c2a001d11e8500ef511dfda3",
+      "gitBlobSHA": "7372521bd519ba55b7ecebcc6d22e59eb8f26cde"
+    },
+    "2025Assembly-BR.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2025Assembly-BR.csv",
+      "sha256": "1115ac0f0511e19ead07074c70616b521e84dd0d5868e294e5db430bb4f760e4",
+      "gitBlobSHA": "977c2b92a75d0de585a55d5f2dceee3ebf17f60b"
+    },
+    "2025Assembly-DL.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2025Assembly-DL.csv",
+      "sha256": "e3b85e44d85e2b137960f5517967bff2a3f96f3fb9156ad98a0c26206bca9924",
+      "gitBlobSHA": "b49b0bcde06f8622a305f4e595aff353acb981c8"
+    },
+    "2026Assembly-AS.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2026Assembly-AS.csv",
+      "sha256": "cd55f652433f22e4ee70f3615ab5d979871eed7cac8af90193fcd1256bac3150",
+      "gitBlobSHA": "c1f9b4940872f80e5de4072907215b2b71dec86e"
+    },
+    "2026Assembly-KL.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2026Assembly-KL.csv",
+      "sha256": "69d940dd681fa8c540c86bceba9a0d67c8c66d5b7640ded0479e1c9e2902cb7c",
+      "gitBlobSHA": "c9421eedf5bc44e65a6806cebedba5ad1dc41237"
+    },
+    "2026Assembly-PY.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2026Assembly-PY.csv",
+      "sha256": "7dee71687c8a198a1311cecd66a9ee6a8eba65d4a28913a9fbe45b1fd7b6353f",
+      "gitBlobSHA": "a1657aaf58d057380b0fb271e0fdc0d25d8c9d72"
+    },
+    "2026Assembly-TN.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2026Assembly-TN.csv",
+      "sha256": "eb0302e0b38fc9ec0a902a9242742a6ff92b8a74b568313d9fc61737041a86b5",
+      "gitBlobSHA": "149b0e55ad0da823ac36d6fe991ebc5be19addb1"
+    },
+    "2026Assembly-WB.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2026Assembly-WB.csv",
+      "sha256": "bcc9163435d5b09ffa007cd8208f542aaa027ed94a32c54b37f7d3ea17b36d04",
+      "gitBlobSHA": "6ca58bc3ebfe1ec6ad76cd8d5688d8547778a8b5"
+    },
+    "lok-sabha-2024.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/archive/2024%20Parliamentary%20Elections%20India.csv",
+      "sha256": "f2ce269e912b2f52da204a469492d95267336831ade4f908469369ccf321e439"
+    }
+  }
+}

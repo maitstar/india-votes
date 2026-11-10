@@ -1,0 +1,3 @@
+# Preserve imported bytes exactly so published checksums survive checkout.
+data/imports/** -text
+*.parquet binary

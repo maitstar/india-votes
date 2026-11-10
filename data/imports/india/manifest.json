@@ -1,0 +1,368 @@
+{
+  "date": "2026-11-10",
+  "inputs": {
+    "assembly.parquet": {
+      "url": "https://raw.githubusercontent.com/skthewimp/elections/1fe9a2e00d3ca451e95be46e753d71af0ede78fe/assembly/data/assembly_candidate_results_since_2009.parquet",
+      "sha256": "646734f553c5662a185dd14ba6f54a33d99e6608fd89e8e66a434649489d5e9b"
+    },
+    "ac_pc_post2008.csv": {
+      "url": "https://raw.githubusercontent.com/skthewimp/india-constituency-maps/efceae39d3922f04fc5ea91106b7b316bf8ddf8f/mappings/ac_pc_post2008.csv",
+      "sha256": "c2197e521eb1192d6912a5cf10788043ccc324f7b2dd6386e5525287e7da0f3f"
+    },
+    "ac_pc_pre2008.csv": {
+      "url": "https://raw.githubusercontent.com/skthewimp/india-constituency-maps/efceae39d3922f04fc5ea91106b7b316bf8ddf8f/mappings/ac_pc_pre2008.csv",
+      "sha256": "815b142f461a45a0b04ac974ccfc1604f65fb18286e939ca6f1e9f91e6f167b1"
+    },
+    "2022Assembly-GA.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2022Assembly-GA.csv",
+      "sha256": "8188e27691f2c56d530d5d6c2b2a9269022cc87f46297f8c96ee50db0d4db915",
+      "gitBlobSHA": "04acd49eb9c5982dd46baca2926f7fd44f083e3e"
+    },
+    "2022Assembly-MN.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2022Assembly-MN.csv",
+      "sha256": "8d68d31ec424c3333fd2faf3978c93174cda462965dab420eafee5ffd14cfbb0",
+      "gitBlobSHA": "7a583d12d9bb685cdd2ef3f8f919cff359006e30"
+    },
+    "2022Assembly-PB.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2022Assembly-PB.csv",
+      "sha256": "743112011072aa280968d9ceb8daa43092a6aede4be33ce60322b370b25e30f4",
+      "gitBlobSHA": "3c439003ada2ae75214ce4d05d9b1a24adf02f71"
+    },
+    "2022Assembly-UK.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2022Assembly-UK.csv",
+      "sha256": "c6c63db04485e488f546baca180e0a6bec6fe39b6018a91f6865ac321c5a1961",
+      "gitBlobSHA": "aaebe6c7d6139fcfc315dcbf7dfc87f939f80641"
+    },
+    "2022Assembly-UP.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2022Assembly-UP.csv",
+      "sha256": "b2e370c0fe8f58a4c46a9e929d166e9fcedd0e7654848a353710de97e588253b",
+      "gitBlobSHA": "bba2488d0f17d7f6c163ea58a5dd3415f223989f"
+    },
+    "2023Assembly-KA.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2023Assembly-KA.csv",
+      "sha256": "90d984a59fbfe5e60d770543e1fe619709b37677826be8e49d7f743021c9f925",
+      "gitBlobSHA": "1355ad1db1294b1b94d1c0524c43322ebe69ae63"
+    },
+    "2023Assembly-ML.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2023Assembly-ML.csv",
+      "sha256": "269ce89761a484433fea68ea968868857ad595c160d75ba4769cfd9e496da97d",
+      "gitBlobSHA": "0b94e5ff617e48e82b360c0b8174ed16bc89ca1b"
+    },
+    "2023Assembly-NL.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2023Assembly-NL.csv",
+      "sha256": "4e790be916b8cf0c173c6d4dc1d9be1ecdbaad9f306a022c4d7119c6817fcafc",
+      "gitBlobSHA": "20659ea926b7169ba635dd1e04245f1a0679334f"
+    },
+    "2023Assembly-TR.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2023Assembly-TR.csv",
+      "sha256": "62dae2bccedb173c52045943c86459da332308b489a9bf580f1e02cdfa00d9e1",
+      "gitBlobSHA": "6ab37e2642c475bc3f942a818cffb8965e8b2c11"
+    },
+    "2024Assembly-HR.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2024Assembly-HR.csv",
+      "sha256": "c90b3873d959f3c570e43dde91405e6c58517629b5f8ff5f3fbea5fda5b968b6",
+      "gitBlobSHA": "0efbb544aeee28d4436f274e649ae1ec9126254c"
+    },
+    "2024Assembly-JH.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2024Assembly-JH.csv",
+      "sha256": "380e8c06592a89015846e862b596ecbae1ba2adb213d621230a7fd10b4d8ea20",
+      "gitBlobSHA": "3ce549ff07fb98b352c12461f50562f045c648b3"
+    },
+    "2024Assembly-JK.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2024Assembly-JK.csv",
+      "sha256": "4ac9d0c5c79b74c3ccfe6e3bde828074f9918c20bbbdbdc5f70f9fa0f210d1c0",
+      "gitBlobSHA": "a9ce8e492a693c9f15915a2e2b0803921f5efb0a"
+    },
+    "2024Assembly-MH.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2024Assembly-MH.csv",
+      "sha256": "16aaaf99540945d460b49914d43109b519643574c2a001d11e8500ef511dfda3",
+      "gitBlobSHA": "7372521bd519ba55b7ecebcc6d22e59eb8f26cde"
+    },
+    "2025Assembly-BR.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2025Assembly-BR.csv",
+      "sha256": "1115ac0f0511e19ead07074c70616b521e84dd0d5868e294e5db430bb4f760e4",
+      "gitBlobSHA": "977c2b92a75d0de585a55d5f2dceee3ebf17f60b"
+    },
+    "2025Assembly-DL.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2025Assembly-DL.csv",
+      "sha256": "e3b85e44d85e2b137960f5517967bff2a3f96f3fb9156ad98a0c26206bca9924",
+      "gitBlobSHA": "b49b0bcde06f8622a305f4e595aff353acb981c8"
+    },
+    "2026Assembly-AS.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2026Assembly-AS.csv",
+      "sha256": "cd55f652433f22e4ee70f3615ab5d979871eed7cac8af90193fcd1256bac3150",
+      "gitBlobSHA": "c1f9b4940872f80e5de4072907215b2b71dec86e"
+    },
+    "2026Assembly-KL.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2026Assembly-KL.csv",
+      "sha256": "69d940dd681fa8c540c86bceba9a0d67c8c66d5b7640ded0479e1c9e2902cb7c",
+      "gitBlobSHA": "c9421eedf5bc44e65a6806cebedba5ad1dc41237"
+    },
+    "2026Assembly-PY.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2026Assembly-PY.csv",
+      "sha256": "7dee71687c8a198a1311cecd66a9ee6a8eba65d4a28913a9fbe45b1fd7b6353f",
+      "gitBlobSHA": "a1657aaf58d057380b0fb271e0fdc0d25d8c9d72"
+    },
+    "2026Assembly-TN.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2026Assembly-TN.csv",
+      "sha256": "eb0302e0b38fc9ec0a902a9242742a6ff92b8a74b568313d9fc61737041a86b5",
+      "gitBlobSHA": "149b0e55ad0da823ac36d6fe991ebc5be19addb1"
+    },
+    "2026Assembly-WB.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/data/csv/2026Assembly-WB.csv",
+      "sha256": "bcc9163435d5b09ffa007cd8208f542aaa027ed94a32c54b37f7d3ea17b36d04",
+      "gitBlobSHA": "6ca58bc3ebfe1ec6ad76cd8d5688d8547778a8b5"
+    },
+    "lok-sabha-2024.csv": {
+      "url": "https://raw.githubusercontent.com/thecont1/india-votes-data/7d8cf637f83d223b178d11659103a1f52647367a/archive/2024%20Parliamentary%20Elections%20India.csv",
+      "sha256": "f2ce269e912b2f52da204a469492d95267336831ade4f908469369ccf321e439"
+    }
+  },
+  "applicationAtlasSHA256": "d8385c6e30c7453bf7d47db46e142eaf7ce188b2cde763cb1affc9ece50b5f0a",
+  "outputs": {
+    "README.md": {
+      "sha256": "853bec00413171552b54e2fd7c64497e2569d12c53a087a309c56cb3cb3794e0",
+      "bytes": 1241
+    },
+    "ac_pc_post2008.csv": {
+      "sha256": "c2197e521eb1192d6912a5cf10788043ccc324f7b2dd6386e5525287e7da0f3f",
+      "bytes": 175504
+    },
+    "ac_pc_pre2008.csv": {
+      "sha256": "815b142f461a45a0b04ac974ccfc1604f65fb18286e939ca6f1e9f91e6f167b1",
+      "bytes": 180268
+    },
+    "assembly-by-state/AP.csv": {
+      "sha256": "2637807bcf4284ac57198364961ce5b9104f83fc1021c091534946d0acd7b91b",
+      "bytes": 3010853
+    },
+    "assembly-by-state/AR.csv": {
+      "sha256": "73fd3c01cca26d654447cc2a8436ff607861a3ec9a47568e116b49dd5f95b26f",
+      "bytes": 184712
+    },
+    "assembly-by-state/AS.csv": {
+      "sha256": "ea0335e60c10d74ce8be3cf39fafbfae57a9c3a62eb5c296e4b90de31217a309",
+      "bytes": 789800
+    },
+    "assembly-by-state/BR.csv": {
+      "sha256": "d5d1f7048d1fabd24ea3d7d726e1b9ef5ed88e1c1eff3e13ca5d9baa23be581b",
+      "bytes": 2036815
+    },
+    "assembly-by-state/CT.csv": {
+      "sha256": "f7a058efcac20fda7711fd632a105152552ef9ed6945efb03af791bf7dc0c778",
+      "bytes": 665711
+    },
+    "assembly-by-state/DL.csv": {
+      "sha256": "a9b27fd5da421de5db3a52ed826991b8b40cbec151d7709e670364c0c48b4763",
+      "bytes": 750594
+    },
+    "assembly-by-state/GA.csv": {
+      "sha256": "668cd4550e5ce32af0cd3cea454ff38a3e46dc92003dc3692b21e3767530dd3f",
+      "bytes": 149613
+    },
+    "assembly-by-state/GJ.csv": {
+      "sha256": "92a69dd1a7a0664d124f676cca1c498e11fa367bedfefc2c2bc254c20b5871af",
+      "bytes": 1031378
+    },
+    "assembly-by-state/HP.csv": {
+      "sha256": "92bd4ef794770d63c0740103818956c4859b3071a5ad8db2d9b275a142b4fa24",
+      "bytes": 188757
+    },
+    "assembly-by-state/HR.csv": {
+      "sha256": "8a3ef4c7617edc96f05ff258c568b3dfd25ae1c7e8391f4936004ca5babd8743",
+      "bytes": 1074562
+    },
+    "assembly-by-state/JH.csv": {
+      "sha256": "ca252d7823cb4e5d2ec2738df82c93f1ef5ae8745f6ea0d1100979664f053131",
+      "bytes": 1258770
+    },
+    "assembly-by-state/JK.csv": {
+      "sha256": "2ddbb6f05f52b9874fcd55c3e9a9e6ec8c968c8e3d5cd8a12755fc578ed85c50",
+      "bytes": 503788
+    },
+    "assembly-by-state/KA.csv": {
+      "sha256": "e4ef6d1652aa570bd0b5f13d1a51829977ba514d561e443b21ca4bc0a12ed6f8",
+      "bytes": 1654394
+    },
+    "assembly-by-state/KL.csv": {
+      "sha256": "242352da5d4b4c1bc5e3e5ccd44f4e9f4209bcfda7c44dbb747fcc7b4e4de6c6",
+      "bytes": 867826
+    },
+    "assembly-by-state/MH.csv": {
+      "sha256": "d7e9150329c499c58b42913704c559c74ef351bbddeee60b0348424e53627784",
+      "bytes": 4103260
+    },
+    "assembly-by-state/ML.csv": {
+      "sha256": "ae8b12e4154cd1e5bca853aa1ced7b1e003333f18a4a892be4438c78a735d098",
+      "bytes": 227195
+    },
+    "assembly-by-state/MN.csv": {
+      "sha256": "527f9abe56ddb00eba4ada4c5e9e5bb3d654f6105bdf065495303fb017b1fa88",
+      "bytes": 173747
+    },
+    "assembly-by-state/MP.csv": {
+      "sha256": "16c39e263b6cfb542285b0a2bd704c9a4f82857061a1d77997aff60cd2cb6212",
+      "bytes": 1596378
+    },
+    "assembly-by-state/MZ.csv": {
+      "sha256": "9c7a8a9926e31d91aa040bc65bf96ac8e010455d2b9d5c1f773885a1d764824a",
+      "bytes": 127026
+    },
+    "assembly-by-state/NL.csv": {
+      "sha256": "81d0e17f2c720a49a5a39ea5fd358ecfe3bd37edd2ff696815d46650bb755b63",
+      "bytes": 124917
+    },
+    "assembly-by-state/OR.csv": {
+      "sha256": "ea0eb432a37d1eb059e99c04e7a8e495d0a32862310cfd2bde4d290093d17fdf",
+      "bytes": 1293547
+    },
+    "assembly-by-state/PB.csv": {
+      "sha256": "3318cdc411d676efbed74a17ec27807c03599fba4699d9454331e7200fb2f4cd",
+      "bytes": 693061
+    },
+    "assembly-by-state/PY.csv": {
+      "sha256": "60f46dc1f4c9fdeadaf6f06395bc4e8982d0422e6fde4d2dbbfceb055f902ede",
+      "bytes": 252272
+    },
+    "assembly-by-state/RJ.csv": {
+      "sha256": "8ee711f053234d9c93f05bd663c0391f646abdce91ea196592437b195a538ee7",
+      "bytes": 1247317
+    },
+    "assembly-by-state/SK.csv": {
+      "sha256": "0d6c419be0c9ea591c6728f1ff3e14c169423880ccb5861aecfe863bf4545c06",
+      "bytes": 146614
+    },
+    "assembly-by-state/TG.csv": {
+      "sha256": "e2735efd40a280d8a6c98860a8b55156731e4bea660d1700b7fa8d2da0dfbd1b",
+      "bytes": 626996
+    },
+    "assembly-by-state/TN.csv": {
+      "sha256": "094dd1bb4be3b1239da41c987354b4add2fc18eedd699cd737330da6e2b3cc11",
+      "bytes": 3131065
+    },
+    "assembly-by-state/TR.csv": {
+      "sha256": "6671892136a6207d469d176e65a9cbc793056f02903e2fc3f7b29af1a3aca93a",
+      "bytes": 174263
+    },
+    "assembly-by-state/UK.csv": {
+      "sha256": "cb97d590750dfb3f120f511dd891ae1edc8c3cdeaf92861ec2305f530ab02da5",
+      "bytes": 423144
+    },
+    "assembly-by-state/UP.csv": {
+      "sha256": "a00812209511ee60ec4c8910dbcd2185c8b6b62eb7fc273a3181074d1321239d",
+      "bytes": 3335409
+    },
+    "assembly-by-state/WB.csv": {
+      "sha256": "a9d2cd41f6f8d89f0b749cb15237e096dac30e6eb65fc0e8f985c9b6db2fdf0e",
+      "bytes": 2075972
+    },
+    "assembly-coverage.csv": {
+      "sha256": "79965efbecb0755ab3aa0574166ae65c6393332fbaedcf4dbbeb98a5503d1ad7",
+      "bytes": 8783
+    },
+    "assembly-source.parquet": {
+      "sha256": "646734f553c5662a185dd14ba6f54a33d99e6608fd89e8e66a434649489d5e9b",
+      "bytes": 4348376
+    },
+    "assembly-winner-discrepancies.json": {
+      "sha256": "e7d24030f0c9802be4d17bcb0a1de7ba3aa35fa2f111c2c0aa308d61c8667a7c",
+      "bytes": 88664
+    },
+    "historical-vote-issues.json": {
+      "sha256": "3290c25eb9b844f65c2b08ffed3529c6cad1f0045a1f10d6ea2d21cda13589e3",
+      "bytes": 637956
+    },
+    "lok-sabha-2019-atlas-export.csv": {
+      "sha256": "f55802cb44677cf4ec7c1500f056ff2f4d2b7238b706b9e9405281de29ce2294",
+      "bytes": 1104777
+    },
+    "lok-sabha-2024-source.csv": {
+      "sha256": "f2ce269e912b2f52da204a469492d95267336831ade4f908469369ccf321e439",
+      "bytes": 740868
+    },
+    "recent-assembly/2022Assembly-GA.csv": {
+      "sha256": "8188e27691f2c56d530d5d6c2b2a9269022cc87f46297f8c96ee50db0d4db915",
+      "bytes": 26095
+    },
+    "recent-assembly/2022Assembly-MN.csv": {
+      "sha256": "8d68d31ec424c3333fd2faf3978c93174cda462965dab420eafee5ffd14cfbb0",
+      "bytes": 25614
+    },
+    "recent-assembly/2022Assembly-PB.csv": {
+      "sha256": "743112011072aa280968d9ceb8daa43092a6aede4be33ce60322b370b25e30f4",
+      "bytes": 111114
+    },
+    "recent-assembly/2022Assembly-UK.csv": {
+      "sha256": "c6c63db04485e488f546baca180e0a6bec6fe39b6018a91f6865ac321c5a1961",
+      "bytes": 52078
+    },
+    "recent-assembly/2022Assembly-UP.csv": {
+      "sha256": "b2e370c0fe8f58a4c46a9e929d166e9fcedd0e7654848a353710de97e588253b",
+      "bytes": 359576
+    },
+    "recent-assembly/2023Assembly-KA.csv": {
+      "sha256": "90d984a59fbfe5e60d770543e1fe619709b37677826be8e49d7f743021c9f925",
+      "bytes": 221217
+    },
+    "recent-assembly/2023Assembly-ML.csv": {
+      "sha256": "269ce89761a484433fea68ea968868857ad595c160d75ba4769cfd9e496da97d",
+      "bytes": 34351
+    },
+    "recent-assembly/2023Assembly-NL.csv": {
+      "sha256": "4e790be916b8cf0c173c6d4dc1d9be1ecdbaad9f306a022c4d7119c6817fcafc",
+      "bytes": 19076
+    },
+    "recent-assembly/2023Assembly-TR.csv": {
+      "sha256": "62dae2bccedb173c52045943c86459da332308b489a9bf580f1e02cdfa00d9e1",
+      "bytes": 24900
+    },
+    "recent-assembly/2024Assembly-HR.csv": {
+      "sha256": "c90b3873d959f3c570e43dde91405e6c58517629b5f8ff5f3fbea5fda5b968b6",
+      "bytes": 78200
+    },
+    "recent-assembly/2024Assembly-JH.csv": {
+      "sha256": "380e8c06592a89015846e862b596ecbae1ba2adb213d621230a7fd10b4d8ea20",
+      "bytes": 93735
+    },
+    "recent-assembly/2024Assembly-JK.csv": {
+      "sha256": "4ac9d0c5c79b74c3ccfe6e3bde828074f9918c20bbbdbdc5f70f9fa0f210d1c0",
+      "bytes": 75640
+    },
+    "recent-assembly/2024Assembly-MH.csv": {
+      "sha256": "16aaaf99540945d460b49914d43109b519643574c2a001d11e8500ef511dfda3",
+      "bytes": 359010
+    },
+    "recent-assembly/2025Assembly-BR.csv": {
+      "sha256": "1115ac0f0511e19ead07074c70616b521e84dd0d5868e294e5db430bb4f760e4",
+      "bytes": 212544
+    },
+    "recent-assembly/2025Assembly-DL.csv": {
+      "sha256": "e3b85e44d85e2b137960f5517967bff2a3f96f3fb9156ad98a0c26206bca9924",
+      "bytes": 57111
+    },
+    "recent-assembly/2026Assembly-AS.csv": {
+      "sha256": "cd55f652433f22e4ee70f3615ab5d979871eed7cac8af90193fcd1256bac3150",
+      "bytes": 65159
+    },
+    "recent-assembly/2026Assembly-KL.csv": {
+      "sha256": "69d940dd681fa8c540c86bceba9a0d67c8c66d5b7640ded0479e1c9e2902cb7c",
+      "bytes": 79902
+    },
+    "recent-assembly/2026Assembly-PY.csv": {
+      "sha256": "7dee71687c8a198a1311cecd66a9ee6a8eba65d4a28913a9fbe45b1fd7b6353f",
+      "bytes": 24286
+    },
+    "recent-assembly/2026Assembly-TN.csv": {
+      "sha256": "eb0302e0b38fc9ec0a902a9242742a6ff92b8a74b568313d9fc61737041a86b5",
+      "bytes": 320822
+    },
+    "recent-assembly/2026Assembly-WB.csv": {
+      "sha256": "bcc9163435d5b09ffa007cd8208f542aaa027ed94a32c54b37f7d3ea17b36d04",
+      "bytes": 253872
+    },
+    "validation.json": {
+      "sha256": "dbe2df37c8857a5848ab077924cfadd034bc63da10bfe3068a2c66fd4dee4308",
+      "bytes": 92087
+    }
+  }
+}

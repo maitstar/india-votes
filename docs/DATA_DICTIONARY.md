@@ -58,3 +58,7 @@ Other source-specific fields remain in the archive. Vote totals and assembly-seg
 ## Separate Kerala upstream import
 
 `data/imports/kerala/` contains raw-schema Kerala result CSVs and era-specific seat mappings, plus source/output checksums and a discrepancy report. It is separate from `atlas.json`; see [import methodology](KERALA_IMPORT.md). Blank CSV cells represent missing upstream fields. These imports are not automatically substituted into displayed results.
+
+## Nationwide source import
+
+`data/imports/india/` retains the original historical assembly parquet and equivalent state CSV partitions, recent-source CSVs and national results. `assembly-coverage.csv` is the spreadsheet-friendly coverage index. Input schemas differ: recent assembly totals require adding `evm_votes` and `postal_votes`; the 2024 national source uses semicolon delimiters and an unopposed text entry. Do not coerce unresolved values or append overlapping bundles without reconciliation. See [nationwide import methodology](INDIA_IMPORT.md).
